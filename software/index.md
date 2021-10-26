@@ -1,10 +1,10 @@
 ---
 title: Portfolio
-banner: /img/banners/manhattan.jpg
+banner: /img/banners/vojvodina-vineyards.jpg
 ---
 
 <div class="big-list">
-  <h1>Hacks and Demos</h1>
+  <h1>Personal Projects</h1>
   <ul class="demos">
   {% for project in site.data.cv.software.hacks_and_demos %}
     <li class="demo">
@@ -16,30 +16,30 @@ banner: /img/banners/manhattan.jpg
   {% endfor %}
   </ul>
 
-  <h1>Software Projects</h1>
+  <!-- <h1>Software Projects</h1>
   <ul>
   {% for project in site.data.cv.software.personal_projects %}
     <li>
       <a title="Link opens in new window" target="_blank" href="{{ project.url }}">{{ project.name }}</a> {{ project.summary }}
     </li>
   {% endfor %}
-  </ul>
+  </ul> -->
 
-  <h1>Open Source Contributions</h1>
+  <!-- <h1>Open Source Contributions</h1>
   <ul>
   {% for project in site.data.cv.software.open_source_contributions %}
     <li>
       <a title="Link opens in new window" target="_blank" href="{{ project.url }}">{{ project.name }}</a> {{ project.summary }}
     </li>
   {% endfor %}
-  </ul>
+  </ul> -->
 
-  <h1>Websites</h1>
+  <!-- <h1>Websites</h1>
   <ul>
   {% for project in site.data.cv.software.websites %}
     <li>
       <a title="Link opens in new window" target="_blank" href="{{ project.url }}">{{ project.name }}</a> {{ project.summary }}
     </li>
   {% endfor %}
-  </ul>
+  </ul> -->
 </div> <!-- /.big-list -->

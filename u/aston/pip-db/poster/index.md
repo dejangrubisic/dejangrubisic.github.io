@@ -1,7 +1,7 @@
 ---
 title: pip-db - Project Poster
 render_post: true
-banner: /img/banners/birmingham-7.jpg
+banner: /img/banners/novi-sad-podhodnik.jpg
 ---
 
 <div class="paper">
