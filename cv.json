@@ -332,58 +332,78 @@
     "hacks_and_demos": [
       {
         "name": "Pacwar:Finding the strongest gene",
-        "picture": "https://chriscummins.cc/img/software/pacwar.png",
-        "url": "https://github.com/dejangrubisic/COMP_557_AI"
+        "picture": "/img/software/pacwar.png",
+        "url": "/pub/projects/pacwar.pdf"
+      },
+      {
+        "name": "Shortest path in dynamic large-scale graph",
+        "picture": "/img/software/master.png",
+        "url": "https://github.com/dejangrubisic/Shortest-Path-in-Dynamic-Large-scale-Graph"
+      },
+      {
+        "name": "Chess engine accelerator",
+        "picture": "/img/software/bachelor.png",
+        "url": "https://github.com/dejangrubisic/Hardware-acceleration-of-chess-engine"
       },
       {
         "name": "Lock free concurrent skip list",
-        "picture": "https://chriscummins.cc/img/software/skiplist.png",
-        "url": "https://github.com/dejangrubisic/ConcurrentSkipList"
+        "picture": "/img/software/skiplist.png",
+        "url": "/pub/projects/concurrent_skiplist.pdf"
       },
       {
         "name": "Parallel exploratory search using Cilk",
-        "picture": "",
-        "url": ""
+        "picture": "/img/software/comp534_cilk.png",
+        "url": "/pub/projects/comp534_cilk.pdf"
       },
       {
         "name": "LU decomposition with OpenMP",
-        "picture": "",
-        "url": ""
+        "picture": "/img/software/comp534_lu.png",
+        "url": "/pub/projects/comp534_lu.pdf"
+      },
+      {
+        "name": "2.5D Matrix Multiplication MPI",
+        "picture": "/img/software/comp534_25mm.png",
+        "url": "/pub/projects/comp534_25mm.pdf"
       },
       {
         "name": "Bitonic sort with GPU",
-        "picture": "",
-        "url": ""
+        "picture": "/img/software/comp534_bitonic.png",
+        "url": "/pub/projects/comp534_bitonic.pdf"
       },
       {
         "name": "Compiler for DEMOgram language",
-        "picture": "",
-        "url": ""
+        "picture": "/img/software/demogram.png",
+        "url": "https://github.com/dejangrubisic/comp506-lab2"
       },
       {
         "name": "Compiler for ILOC language",
-        "picture": "",
-        "url": ""
+        "picture": "/img/software/iloc.png",
+        "url": "/pub/projects/iloc.pdf"
       },
       {
         "name": "Reliable File Transfer Protocol",
-        "picture": "",
-        "url": ""
+        "picture": "/img/software/networks_rftp.png",
+        "url": "https://github.com/dejangrubisic/NetworksProject/tree/main/project2"
       },
       {
         "name": "Intra-Domain Routing Protocols",
-        "picture": "",
-        "url": ""
+        "picture": "/img/software/networks_routing.png",
+        "url": "https://github.com/dejangrubisic/NetworksProject/tree/main/project3"
       },
       {
         "name": "Double pendulum in celery",
-        "picture": "",
-        "url": ""
+        "picture": "/img/software/pendulum.png",
+        "url": "https://github.com/dejangrubisic/DoublePendulum_in_Celery"
+      },
+      {
+        "name": "Tiling in CnC framework",
+        "picture": "/img/software/cnc.png",
+        "url": "/pub/projects/cnc_presentation.pptx"
       },
       {
         "name": "Simple Qt planner for RasberryPi",
-        "picture": "",
-        "url": ""
+        "picture": "/img/software/planner.png",
+        "url": "https://github.com/dejangrubisic/Qt_Planner_RaspberryPi"
       },
       {
         "name": "Metal detector",
@@ -392,13 +412,13 @@
       },
       {
         "name": "Simple counter in ASIC",
-        "picture": "",
-        "url": ""
+        "picture": "/img/software/asic_counter.png",
+        "url": "/pub/projects/asic_counter.pdf"
       },
       {
         "name": "Nuclear fusion experiment",
-        "picture": "",
-        "url": ""
+        "picture": "/img/software/fusion.png",
+        "url": "/pub/projects/fusion.pdf"
       }
     ],
     
