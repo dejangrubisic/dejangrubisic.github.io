@@ -46,7 +46,7 @@ incremental: false
 detach:  false
 port:    4000
 host:    127.0.0.1
-url:     "https://chriscummins.cc"
+url:     "https://www.dejangrubisic.com"
 # baseurl: "/staging"
 show_dir_listing: false
 

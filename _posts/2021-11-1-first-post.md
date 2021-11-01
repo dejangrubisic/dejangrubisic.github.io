@@ -7,7 +7,7 @@ Hi there,
 
 this is my first try to properly organize my professional development
 and have some metrics to track progress while sharing some research thoughts. At the moment of writing, I am in my third year of PhD. program at Rice University in the group for developing large-scale profiler [HPCToolkit](http://hpctoolkit.org/),
- that I will talk about much more later. Before I start my story, let me thank an amazing scientist and programmer [Chris Cummins](https://chriscummins.cc/), for creating the template for this website and doing many other cool projects. Much more than that, reading Chris's posts, papers and code served as the great motivation, and guidance to organize me and be a successful PhD student.
+ that I will talk about much more later. Before I start my story, let me thank an amazing scientist and programmer [Chris Cummins](https://www.dejangrubisic.com/), for creating the template for this website and doing many other cool projects. Much more than that, reading Chris's posts, papers and code served as the great motivation, and guidance to organize me and be a successful PhD student.
 
 
 The first two years of my studies at Rice were focused pretty much on the courses, that

@@ -3,8 +3,8 @@
  *
  * Written by Chris Cummins <chrisc.101@gmail.com>
  * Copyright (c) 2013-2020 Chris Cummins
- * https://chriscummins.cc
- * https://chriscummins.cc/genetics
+ * https://www.dejangrubisic.com
+ * https://www.dejangrubisic.com/genetics
  *
  * Based on `JavaScript Genetic Algorithm' - Copyright (c) 2009 Jacob Seidelin.
  *   jseidelin@nihilogic.dk, http://blog.nihilogic.dk/
@@ -748,7 +748,7 @@ var Genetics = Genetics || {};
   $('#get-url').click(function() {
     var urlBox = $('#share-url')[0];
     // NOTE THIS MUST BE UPDATED IF THE PAGE MOVES:
-    var location = 'https://chriscummins.cc/s/genetics/';
+    var location = 'https://www.dejangrubisic.com/s/genetics/';
 
     urlBox.value = location + '#' + configurationToString();
     $('#share').show();

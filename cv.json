@@ -97,7 +97,7 @@
       "countryCode": "USA"
     },
     "name": "Dejan Grubisic",
-    "picture": "https://chriscummins.cc/img/me.jpg",
+    "picture": "https://www.dejangrubisic.com/img/me.jpg",
     "picture_dimensions": {
       "height": 400,
       "width": 400
@@ -120,7 +120,7 @@
       }
     ],
     "summary": "Full time geek and re\u00adsearch stu\u00addent with a pas\u00adsion for de\u00advel\u00adop\u00ading great soft\u00adware, of\u00adten late at night.",
-    "website": "https://chriscummins.cc"
+    "website": "https://www.dejangrubisic.com"
   },
   "education": [
     {
@@ -128,7 +128,7 @@
       "assets": [
         {
           "name": "Research Project Report",
-          "url": "https://chriscummins.cc/u/ed/research-project-report.pdf"
+          "url": "https://www.dejangrubisic.com/u/ed/research-project-report.pdf"
         },
         {
           "name": "Source Code",
@@ -197,7 +197,7 @@
       ],
       "authors": "Keren Zhou, Laksono Adhianto, Jonathon Anderson, Aaron Cherian, **Dejan Grubisic**, Mark Krentel, Yumeng Liu, Xiaozhu Meng, John Mellor-Crummey",
       "name": "Measurement and Analysis of GPU-accelerated Applications with HpcToolkit",
-      "picture": "https://chriscummins.cc/pub/2021-icml.png",
+      "picture": "https://www.dejangrubisic.com/pub/2021-icml.png",
       "publication": "[Parallel Computing Journal](https://www.journals.elsevier.com/parallel-computing)",
       "releaseDate": "2021",
       "summary": "To address the challenge of performance analysis on the US DOE’s forthcoming exascale supercomputers, Rice University has been extending its HPCToolkit performance tools to support measurement and analysis of GPU-accelerated applications."
@@ -215,7 +215,7 @@
       ],
       "authors": "Aaron Thomas Cherian, Keren Zhou, **Dejan Grubisic**, Xiaozhu Meng, John Mellor-Crummey",
       "name": "Measurement and Analysis of GPU-Accelerated OpenCL Computations on Intel GPUs (under submission)",
-      "picture": "https://chriscummins.cc/pub/2021-icml.png",
+      "picture": "https://www.dejangrubisic.com/pub/2021-icml.png",
       "publication": "[ProTools](https://protools21.github.io/)",
       "releaseDate": "2021",
       "summary": "In this paper, we describe extensions to Rice University's HPCToolkit performance tools that support measurement and analysis of Intel's DPC++ programming model for GPU-accelerated systems atop an implementation of the industry-standard OpenCL framework for heterogeneous parallelism on Intel GPUs"
@@ -229,7 +229,7 @@
       ],
       "authors": "Keren Zhou, Xiaozhu Meng, Ryuichi Sai, **Dejan Grubisic**, John Mellor-Crummey",
       "name": "An Automated Tool for Analysis and Tuning of GPU-accelerated Code in HPC Applications",
-      "picture": "https://chriscummins.cc/pub/2021-value-learning.png",
+      "picture": "https://www.dejangrubisic.com/pub/2021-value-learning.png",
       "publication": "[TPDS](https://www.computer.org/csdl/journal/td)",
       "releaseDate": "2021",
       "summary": "In this paper, we describe GPA, a performance advisor that suggests potential code optimizations at a hierarchy of levels, including individual lines, loops, and functions. To gather the fine-grained measurements needed to produce such insights, GPA uses instruction sampling and binary instrumentation to monitor execution of GPU code. sing GPA, we obtained speedups on a Volta V100 GPU ranging from 1.01x to 3.58x, with a geometric mean of 1.22x"
@@ -247,7 +247,7 @@
       ],
       "authors": "**Dejan Grubisic**",
       "name": "Sistem za pronalazenje najkrace putanje izmedju lokacija sa tezinama putanja promenjivim u realnom vremenu zasnovan na arhitekturi lambda",
-      "picture": "https://chriscummins.cc/pub/2020-deep-data-flow.png",
+      "picture": "https://www.dejangrubisic.com/pub/2020-deep-data-flow.png",
       "publication": "[Zbornik radova Fakulteta tehničkih nauka u Novom Sadu](http://www.ftn.uns.ac.rs/ojs/index.php/zbornik/article/view/707)",
       "releaseDate": "2019",
       "summary": "Finding shortest path in dynamic multi source large-scale graph, based on Lambda architecture"
@@ -256,8 +256,8 @@
   "skills": [
     {
       "keywords": [
-        "Python",
         "C/C++",
+        "Python",
         "CudaC",
         "GNU / Linux",
         "Bash",
