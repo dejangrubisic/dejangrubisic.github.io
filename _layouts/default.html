@@ -16,16 +16,16 @@ Licensed under {{ site.copyright.license }}.
 
   {% comment %}
   We check to see what the page title is before appending
-  "| Chris Cummins" to it, as otherwise this would result with an
-  index title of "Chris Cummins | Chris Cummins".
+  "| Dejan Grubisic" to it, as otherwise this would result with an
+  index title of "Dejan Grubisic | Dejan Grubisic".
   {% endcomment %}
-  {% if page.title == "Chris Cummins" %}
+  {% if page.title == "Dejan Grubisic" %}
   <title>{{ page.title }}</title>
   {% else %}
-  <title>{{ page.title }} | Chris Cummins</title>
+  <title>{{ page.title }} | Dejan Grubisic</title>
   {% endif %}
   <meta name="description" content="{{ site.data.cv.basics.summary }}" />
-  <meta name="author" property="author" content="Chris Cummins" />
+  <meta name="author" property="author" content="Dejan Grubisic" />
 
   {% include opengraph.html %}
 

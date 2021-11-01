@@ -372,7 +372,7 @@
       },
       {
         "name": "Compiler for DEMOgram language",
-        "picture": "/img/software/demogram.png",
+        "picture": "/img/software/demogram1.png",
         "url": "https://github.com/dejangrubisic/comp506-lab2"
       },
       {
@@ -391,6 +391,11 @@
         "url": "https://github.com/dejangrubisic/NetworksProject/tree/main/project3"
       },
       {
+        "name": "Movie Profit Prediction",
+        "picture": "/img/software/movie_profit_prediction.png",
+        "url": "/pub/projects/movie_profit_prediction.pdf"
+      },
+      {
         "name": "Double pendulum in celery",
         "picture": "/img/software/pendulum.png",
         "url": "https://github.com/dejangrubisic/DoublePendulum_in_Celery"
@@ -398,7 +403,7 @@
       {
         "name": "Tiling in CnC framework",
         "picture": "/img/software/cnc.png",
-        "url": "/pub/projects/cnc_presentation.pptx"
+        "url": "/pub/projects/cnc.pdf"
       },
       {
         "name": "Simple Qt planner for RasberryPi",
@@ -407,8 +412,8 @@
       },
       {
         "name": "Metal detector",
-        "picture": "",
-        "url": ""
+        "picture": "/img/software/metal_detector.png",
+        "url": "/pub/projects/metal_detector.pdf"
       },
       {
         "name": "Simple counter in ASIC",
