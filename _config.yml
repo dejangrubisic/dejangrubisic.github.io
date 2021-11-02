@@ -46,7 +46,7 @@ incremental: false
 detach:  false
 port:    4000
 host:    127.0.0.1
-url:     "https://www.dejangrubisic.com"
+url:     "https://dejangrubisic.github.io"
 # baseurl: "/staging"
 show_dir_listing: false
 

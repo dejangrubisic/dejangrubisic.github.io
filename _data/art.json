@@ -2,7 +2,7 @@
   "README": "Used by /art/index.html to generate gallery. Images appear in the order listed.",
   "images": [
     {
-      "name": "Mocha meeting AI textbook, 2021",
+      "name": "Mocha meeting AI textbook",
       "tags": [
         "Cats"
       ],
@@ -10,7 +10,7 @@
       "url-small": "/img/art/mocha-1.jpg"
     },
     {
-      "name": "Mocha sleeping on AI textbook, 2021",
+      "name": "Mocha sleeping on AI textbook",
       "tags": [
         "Cats"
       ],
@@ -18,7 +18,7 @@
       "url-small": "/img/art/mocha-2.jpg"
     },
     {
-      "name": "Mocha being a pillow, 2021",
+      "name": "Mocha being a pillow",
       "tags": [
         "Cats"
       ],
@@ -26,7 +26,7 @@
       "url-small": "/img/art/mocha-3.jpg"
     },
     {
-      "name": "Mocha at piano class, 2021",
+      "name": "Mocha at piano class",
       "tags": [
         "Cats"
       ],
@@ -34,7 +34,7 @@
       "url-small": "/img/art/mocha-4.jpg"
     },
     {
-      "name": "Mocha worm up for tennis class, 2021",
+      "name": "Mocha worm up for tennis class",
       "tags": [
         "Cats"
       ],
@@ -42,7 +42,7 @@
       "url-small": "/img/art/mocha-5.jpg"
     },
     {
-      "name": "Mocha being serious, 2021",
+      "name": "Mocha being serious",
       "tags": [
         "Cats"
       ],
@@ -50,7 +50,7 @@
       "url-small": "/img/art/mocha-6.jpg"
     },
     {
-      "name": "Mocha fell asleep while coding, 2021",
+      "name": "Let me chill out while experiments are running",
       "tags": [
         "Cats"
       ],
@@ -58,7 +58,7 @@
       "url-small": "/img/art/mocha-7.jpg"
     },
     {
-      "name": "Experiments didn't go well, 2021",
+      "name": "Experiments didn't go well",
       "tags": [
         "Cats"
       ],
@@ -66,7 +66,7 @@
       "url-small": "/img/art/mocha-8.jpg"
     },
     {
-      "name": "Seva sleeping next to me, 2021",
+      "name": "Seva sleeping next to me",
       "tags": [
         "Cats"
       ],
@@ -77,7 +77,7 @@
 
 
     {
-      "name": "Petrovaradin fortress under snow, 2021",
+      "name": "Petrovaradin fortress under snow",
       "tags": [
         "Serbia"
       ],
@@ -85,7 +85,7 @@
       "url-small": "/img/art/novi-sad-1.jpg"
     },
     {
-      "name": "Novi Sad catedral, 2021",
+      "name": "Novi Sad catedral",
       "tags": [
         "Serbia"
       ],
@@ -93,7 +93,7 @@
       "url-small": "/img/art/novi-sad-2.jpg"
     },
     {
-      "name": "Novi Sad city hall, 2021",
+      "name": "Novi Sad city hall",
       "tags": [
         "Serbia"
       ],
@@ -101,7 +101,7 @@
       "url-small": "/img/art/novi-sad-3.jpg"
     },
     {
-      "name": "Petrovaradin fortress clock, 2021",
+      "name": "Petrovaradin fortress clock",
       "tags": [
         "Serbia"
       ],
@@ -109,7 +109,7 @@
       "url-small": "/img/art/novi-sad-4.jpg"
     },
     {
-      "name": "Iron man, 2021",
+      "name": "Iron man",
       "tags": [
         "Serbia"
       ],
@@ -117,7 +117,7 @@
       "url-small": "/img/art/novi-sad-5.jpg"
     },
     {
-      "name": "Petrovaradin fortress in fall, 2021",
+      "name": "Petrovaradin fortress in fall",
       "tags": [
         "Serbia"
       ],
@@ -125,7 +125,7 @@
       "url-small": "/img/art/novi-sad-6.jpg"
     },
     {
-      "name": "Novi Sad rail bridge, 2021",
+      "name": "Novi Sad rail bridge",
       "tags": [
         "Serbia"
       ],
@@ -133,7 +133,7 @@
       "url-small": "/img/art/novi-sad-7.jpg"
     },
     {
-      "name": "Novi Sad main street, 2021",
+      "name": "Novi Sad main street",
       "tags": [
         "Serbia"
       ],
@@ -141,7 +141,7 @@
       "url-small": "/img/art/novi-sad-8.jpg"
     },
     {
-      "name": "Novi Sad city center, 2021",
+      "name": "Novi Sad city center",
       "tags": [
         "Serbia"
       ],
@@ -149,7 +149,7 @@
       "url-small": "/img/art/novi-sad-9.jpg"
     },
     {
-      "name": "Novi Sad common transportation, 2021",
+      "name": "Novi Sad common transportation",
       "tags": [
         "Serbia"
       ],
@@ -157,7 +157,7 @@
       "url-small": "/img/art/novi-sad-10.jpg"
     },
     {
-      "name": "Novi Sad main street, 2021",
+      "name": "Novi Sad main street",
       "tags": [
         "Serbia"
       ],
@@ -165,7 +165,7 @@
       "url-small": "/img/art/novi-sad-11.jpg"
     },
     {
-      "name": "Novi Sad catedral, 2021",
+      "name": "Novi Sad catedral",
       "tags": [
         "Serbia"
       ],
@@ -173,7 +173,7 @@
       "url-small": "/img/art/novi-sad-12.jpg"
     },
     {
-      "name": "Novi Sad bridge of freedom, 2021",
+      "name": "Novi Sad bridge of freedom",
       "tags": [
         "Serbia"
       ],
@@ -181,7 +181,7 @@
       "url-small": "/img/art/novi-sad-13.jpg"
     },
     {
-      "name": "Petrovaradin fortress, 2021",
+      "name": "Petrovaradin fortress",
       "tags": [
         "Serbia"
       ],
@@ -189,7 +189,7 @@
       "url-small": "/img/art/novi-sad-14.jpg"
     },
     {
-      "name": "Novi Sad river walk, 2021",
+      "name": "Novi Sad river walk",
       "tags": [
         "Serbia"
       ],
@@ -197,7 +197,7 @@
       "url-small": "/img/art/novi-sad-15.jpg"
     },
     {
-      "name": "Petrovaradin clock sunset, 2021",
+      "name": "Petrovaradin clock sunset",
       "tags": [
         "Serbia"
       ],
@@ -205,7 +205,7 @@
       "url-small": "/img/art/novi-sad-16.jpg"
     },
     {
-      "name": "Novi Sad's first grammar school, 2021",
+      "name": "Novi Sad's first grammar school",
       "tags": [
         "Serbia"
       ],
@@ -213,7 +213,7 @@
       "url-small": "/img/art/novi-sad-17.jpg"
     },
     {
-      "name": "Petrovaradin fortress, 2021",
+      "name": "Petrovaradin fortress",
       "tags": [
         "Serbia"
       ],
@@ -221,7 +221,7 @@
       "url-small": "/img/art/novi-sad-18.jpg"
     },
     {
-      "name": "Petrovaradin fortress, 2021",
+      "name": "Petrovaradin fortress",
       "tags": [
         "Serbia"
       ],
@@ -229,7 +229,7 @@
       "url-small": "/img/art/novi-sad-19.jpg"
     },
     {
-      "name": "Danube river, 2021",
+      "name": "Danube river",
       "tags": [
         "Serbia"
       ],
@@ -237,7 +237,7 @@
       "url-small": "/img/art/novi-sad-20.jpg"
     },
     {
-      "name": "Danube river, 2021",
+      "name": "Danube river",
       "tags": [
         "Serbia"
       ],
@@ -245,7 +245,7 @@
       "url-small": "/img/art/novi-sad-21.jpg"
     },
     {
-      "name": "Novi Sad downtown, 2021",
+      "name": "Novi Sad downtown",
       "tags": [
         "Serbia"
       ],
@@ -253,7 +253,7 @@
       "url-small": "/img/art/novi-sad-22.jpg"
     },
     {
-      "name": "Novi Sad bridge of freedom, 2021",
+      "name": "Novi Sad bridge of freedom",
       "tags": [
         "Serbia"
       ],
@@ -269,7 +269,7 @@
       "url-small": "/img/art/novi-sad-24.jpg"
     },
     {
-      "name": "Fruska gora harvesting season, 2021",
+      "name": "Fruska gora harvesting season",
       "tags": [
         "Serbia"
       ],
@@ -277,7 +277,7 @@
       "url-small": "/img/art/novi-sad-25.jpg"
     },
     {
-      "name": "Novi Sad main square, 2021",
+      "name": "Novi Sad main square",
       "tags": [
         "Serbia"
       ],
@@ -285,7 +285,7 @@
       "url-small": "/img/art/novi-sad-26.jpg"
     },
     {
-      "name": "Novi Sad Matica Srpska, 2021",
+      "name": "Novi Sad Matica Srpska",
       "tags": [
         "Serbia"
       ],
@@ -293,7 +293,7 @@
       "url-small": "/img/art/novi-sad-27.jpg"
     },
     {
-      "name": "Novi Sad synagogue, 2021",
+      "name": "Novi Sad synagogue",
       "tags": [
         "Serbia"
       ],
@@ -301,7 +301,7 @@
       "url-small": "/img/art/novi-sad-28.jpg"
     },
     {
-      "name": "Rakija making, 2021",
+      "name": "Rakija making",
       "tags": [
         "Serbia"
       ],
@@ -309,7 +309,7 @@
       "url-small": "/img/art/novi-sad-29.jpg"
     },
     {
-      "name": "Traditional breakfast, 2021",
+      "name": "Traditional breakfast",
       "tags": [
         "Serbia"
       ],
@@ -318,7 +318,7 @@
     },
 
     {
-      "name": "First Serbian grammar school, 2021",
+      "name": "First Serbian grammar school",
       "tags": [
         "Serbia"
       ],
@@ -326,7 +326,7 @@
       "url-small": "/img/art/serbia-1.jpg"
     },
     {
-      "name": "Belgrade winner, 2021",
+      "name": "Belgrade winner",
       "tags": [
         "Serbia"
       ],
@@ -334,7 +334,7 @@
       "url-small": "/img/art/serbia-2.jpg"
     },
     {
-      "name": "Foggy mountines, 2021",
+      "name": "Foggy mountines",
       "tags": [
         "Serbia"
       ],
@@ -342,7 +342,7 @@
       "url-small": "/img/art/serbia-3.jpg"
     },
     {
-      "name": "Uvac river, 2021",
+      "name": "Uvac river",
       "tags": [
         "Serbia"
       ],
@@ -350,7 +350,7 @@
       "url-small": "/img/art/serbia-4.jpg"
     },
     {
-      "name": "Serbian mountines, 2021",
+      "name": "Serbian mountines",
       "tags": [
         "Serbia"
       ],
@@ -358,7 +358,7 @@
       "url-small": "/img/art/serbia-5.jpg"
     },
     {
-      "name": "Old ship, 2021",
+      "name": "Old ship",
       "tags": [
         "Serbia"
       ],
@@ -366,7 +366,7 @@
       "url-small": "/img/art/serbia-6.jpg"
     },
     {
-      "name": "Cloud face, 2021",
+      "name": "Cloud face",
       "tags": [
         "Serbia"
       ],
@@ -374,7 +374,7 @@
       "url-small": "/img/art/serbia-7.jpg"
     },
     {
-      "name": "Two store house, 2021",
+      "name": "Two store house",
       "tags": [
         "Serbia"
       ],
@@ -382,7 +382,7 @@
       "url-small": "/img/art/serbia-8.jpg"
     },
     {
-      "name": "Saint Sava church, 2021",
+      "name": "Saint Sava church",
       "tags": [
         "Serbia"
       ],
@@ -390,7 +390,7 @@
       "url-small": "/img/art/serbia-9.jpg"
     },
     {
-      "name": "Stepa Stepanovic neighborhood, 2021",
+      "name": "Stepa Stepanovic neighborhood",
       "tags": [
         "Serbia"
       ],
@@ -398,7 +398,7 @@
       "url-small": "/img/art/serbia-10.jpg"
     },
     {
-      "name": "Monastery, 2021",
+      "name": "Monastery",
       "tags": [
         "Serbia"
       ],
@@ -406,7 +406,7 @@
       "url-small": "/img/art/serbia-11.jpg"
     },
     {
-      "name": "Belgrade winner, 2021",
+      "name": "Belgrade winner",
       "tags": [
         "Serbia"
       ],
@@ -422,7 +422,7 @@
       "url-small": "/img/art/serbia-13.jpg"
     },
     {
-      "name": "Belgrade, 2021",
+      "name": "Belgrade",
       "tags": [
         "Serbia"
       ],
@@ -430,7 +430,7 @@
       "url-small": "/img/art/serbia-14.jpg"
     },
     {
-      "name": "Belgrade twins, 2021",
+      "name": "Belgrade twins",
       "tags": [
         "Serbia"
       ],
@@ -438,7 +438,7 @@
       "url-small": "/img/art/serbia-15.jpg"
     },
     {
-      "name": "River house, 2021",
+      "name": "River house",
       "tags": [
         "Serbia"
       ],
@@ -446,7 +446,7 @@
       "url-small": "/img/art/serbia-16.jpg"
     },
     {
-      "name": "Avala tower, 2021",
+      "name": "Avala tower",
       "tags": [
         "Serbia"
       ],
@@ -454,7 +454,7 @@
       "url-small": "/img/art/serbia-17.jpg"
     },
     {
-      "name": "Golubac castle, 2021",
+      "name": "Golubac castle",
       "tags": [
         "Serbia"
       ],
@@ -462,7 +462,7 @@
       "url-small": "/img/art/serbia-18.jpg"
     },
     {
-      "name": "Belgrade winner, 2021",
+      "name": "Belgrade winner",
       "tags": [
         "Serbia"
       ],
@@ -470,7 +470,7 @@
       "url-small": "/img/art/serbia-19.jpg"
     },
     {
-      "name": "Serbia landscape, 2021",
+      "name": "Serbia landscape",
       "tags": [
         "Serbia"
       ],
@@ -478,7 +478,7 @@
       "url-small": "/img/art/serbia-20.jpg"
     },
     {
-      "name": "Serbia landscape, 2021",
+      "name": "Serbia landscape",
       "tags": [
         "Serbia"
       ],
@@ -486,7 +486,7 @@
       "url-small": "/img/art/serbia-21.jpg"
     },
     {
-      "name": "Zica monastery, 2021",
+      "name": "Zica monastery",
       "tags": [
         "Serbia"
       ],
@@ -494,7 +494,7 @@
       "url-small": "/img/art/serbia-22.jpg"
     },
     {
-      "name": "Sain Sava church, 2021",
+      "name": "Sain Sava church",
       "tags": [
         "Serbia"
       ],
@@ -502,7 +502,7 @@
       "url-small": "/img/art/serbia-23.jpg"
     },
     {
-      "name": "Lavanda fields, 2021",
+      "name": "Lavanda fields",
       "tags": [
         "Serbia"
       ],
@@ -510,7 +510,7 @@
       "url-small": "/img/art/serbia-24.jpg"
     },
     {
-      "name": "Serbia landscape, 2021",
+      "name": "Serbia landscape",
       "tags": [
         "Serbia"
       ],
@@ -518,7 +518,7 @@
       "url-small": "/img/art/serbia-25.jpg"
     },
     {
-      "name": "Slow river, 2021",
+      "name": "Slow river",
       "tags": [
         "Serbia"
       ],
@@ -526,7 +526,7 @@
       "url-small": "/img/art/serbia-26.jpg"
     },
     {
-      "name": "Mountains, 2021",
+      "name": "Mountains",
       "tags": [
         "Serbia"
       ],
@@ -534,7 +534,7 @@
       "url-small": "/img/art/serbia-27.jpg"
     },
     {
-      "name": "Mountains, 2021",
+      "name": "Mountains",
       "tags": [
         "Serbia"
       ],
@@ -542,7 +542,7 @@
       "url-small": "/img/art/serbia-28.jpg"
     },
     {
-      "name": "Mountain river, 2021",
+      "name": "Mountain river",
       "tags": [
         "Serbia"
       ],
@@ -550,7 +550,7 @@
       "url-small": "/img/art/serbia-29.jpg"
     },
     {
-      "name": "Morning in Belgrade, 2021",
+      "name": "Morning in Belgrade",
       "tags": [
         "Serbia"
       ],
@@ -558,7 +558,7 @@
       "url-small": "/img/art/serbia-30.jpg"
     },
     {
-      "name": "River meander, 2021",
+      "name": "River meander",
       "tags": [
         "Serbia"
       ],
@@ -566,7 +566,7 @@
       "url-small": "/img/art/serbia-31.jpg"
     },
     {
-      "name": "Mountain river, 2021",
+      "name": "Mountain river",
       "tags": [
         "Serbia"
       ],
@@ -574,7 +574,7 @@
       "url-small": "/img/art/serbia-32.jpg"
     },
     {
-      "name": "Monastery, 2021",
+      "name": "Monastery",
       "tags": [
         "Serbia"
       ],
@@ -582,7 +582,7 @@
       "url-small": "/img/art/serbia-33.jpg"
     },
     {
-      "name": "Water light play, 2021",
+      "name": "Water light play",
       "tags": [
         "Serbia"
       ],
@@ -590,7 +590,7 @@
       "url-small": "/img/art/serbia-34.jpg"
     },
     {
-      "name": "Monastery on hill, 2021",
+      "name": "Monastery on hill",
       "tags": [
         "Serbia"
       ],
@@ -598,7 +598,7 @@
       "url-small": "/img/art/serbia-35.jpg"
     },
     {
-      "name": "Sain Sava church, 2021",
+      "name": "Sain Sava church",
       "tags": [
         "Serbia"
       ],
@@ -606,7 +606,7 @@
       "url-small": "/img/art/serbia-36.jpg"
     },
     {
-      "name": "Serbia mountain lake, 2021",
+      "name": "Serbia mountain lake",
       "tags": [
         "Serbia"
       ],
@@ -640,7 +640,7 @@
       "url-small": "/img/art/travel-3.jpg"
     },
     {
-      "name": "Houston house construction, 2021",
+      "name": "Houston house construction",
       "tags": [
         "Travel"
       ],
@@ -648,7 +648,7 @@
       "url-small": "/img/art/travel-4.jpg"
     },
     {
-      "name": "Duncan Hall ceiling, 2021",
+      "name": "Duncan Hall ceiling",
       "tags": [
         "Travel"
       ],

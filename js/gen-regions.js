@@ -236,7 +236,7 @@ var GenRegions = GenRegions || {};
       /* Show the hash and highlight it for quick copying. */
       var urlBox = $('#share-hash')[0];
 
-      urlBox.value = 'https://www.dejangrubisic.com/gen-regions' + saveStateToHash();
+      urlBox.value = 'https://dejangrubisic.github.io/gen-regions' + saveStateToHash();
       shareDiv.show();
       urlBox.focus();
       urlBox.select();
