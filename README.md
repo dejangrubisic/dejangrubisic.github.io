@@ -44,7 +44,7 @@ Check the staging site at http://dejangrubisic.github.io/staging
 The website code is
 [MIT Licensed](https://github.com/ChrisCummins/chriscummins.github.io/blob/master/LICENSE),
 but the website *content* is not. The following directories and their contents
-are copyright Chris Cummins:
+are copyright Dejan Grubisic:
 * `_posts/`
 * `images/`,
 * `img/`,
