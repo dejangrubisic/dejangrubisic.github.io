@@ -331,7 +331,7 @@
   "software": {
     "hacks_and_demos": [
       {
-        "name": "Pacwar:Finding the strongest gene",
+        "name": "Pacwar: Finding the strongest gene",
         "picture": "/img/software/pacwar.png",
         "url": "/pub/projects/pacwar.pdf"
       },
@@ -361,7 +361,7 @@
         "url": "/pub/projects/comp534_lu.pdf"
       },
       {
-        "name": "2.5D Matrix Multiplication MPI",
+        "name": "2.5D matrix multiplication MPI",
         "picture": "/img/software/comp534_25mm.png",
         "url": "/pub/projects/comp534_25mm.pdf"
       },
@@ -391,34 +391,34 @@
         "url": "/pub/projects/robotics_nonholonomic.pdf"
       },
       {
-        "name": "Random  tree  planner",
+        "name": "Random tree planner",
         "picture": "/img/software/robotics_rrt.png",
         "url": "/pub/projects/robotics_rrt.pdf"
       },
       {
-        "name": "Reliable File Transfer Protocol",
-        "picture": "/img/software/networks_rftp.png",
-        "url": "https://github.com/dejangrubisic/NetworksProject/tree/main/project2"
-      },
-      {
-        "name": "Intra-Domain Routing Protocols",
-        "picture": "/img/software/networks_routing.png",
-        "url": "https://github.com/dejangrubisic/NetworksProject/tree/main/project3"
-      },
-      {
-        "name": "Movie Profit Prediction",
+        "name": "Movie profit prediction",
         "picture": "/img/software/movie_profit_prediction.png",
         "url": "/pub/projects/movie_profit_prediction.pdf"
-      },
-      {
-        "name": "Double pendulum in celery",
-        "picture": "/img/software/pendulum.png",
-        "url": "https://github.com/dejangrubisic/DoublePendulum_in_Celery"
       },
       {
         "name": "Tiling in CnC framework",
         "picture": "/img/software/cnc.png",
         "url": "/pub/projects/cnc.pdf"
+      },
+      {
+        "name": "Reliable file transfer protocol",
+        "picture": "/img/software/networks_rftp.png",
+        "url": "https://github.com/dejangrubisic/NetworksProject/tree/main/project2"
+      },
+      {
+        "name": "Intra-domain routing protocols",
+        "picture": "/img/software/networks_routing.png",
+        "url": "https://github.com/dejangrubisic/NetworksProject/tree/main/project3"
+      },
+      {
+        "name": "Double pendulum in Celery",
+        "picture": "/img/software/pendulum.png",
+        "url": "https://github.com/dejangrubisic/DoublePendulum_in_Celery"
       },
       {
         "name": "Simple Qt planner for RasberryPi",
