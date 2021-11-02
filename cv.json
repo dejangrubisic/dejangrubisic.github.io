@@ -381,6 +381,21 @@
         "url": "/pub/projects/iloc.pdf"
       },
       {
+        "name": "Decentralized multi-robot coordination",
+        "picture": "/img/software/robotics_multirobot.png",
+        "url": "/pub/projects/robotics_multirobot.pdf"
+      },
+      {
+        "name": "Non-holonomic dynamic systems planning",
+        "picture": "/img/software/robotics_nonholonomic.png",
+        "url": "/pub/projects/robotics_nonholonomic.pdf"
+      },
+      {
+        "name": "Random  tree  planner",
+        "picture": "/img/software/robotics_rrt.png",
+        "url": "/pub/projects/robotics_rrt.pdf"
+      },
+      {
         "name": "Reliable File Transfer Protocol",
         "picture": "/img/software/networks_rftp.png",
         "url": "https://github.com/dejangrubisic/NetworksProject/tree/main/project2"
