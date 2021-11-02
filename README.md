@@ -37,7 +37,7 @@ $ git remote add staging git@github.com:ChrisCummins/staging.git
 $ git push staging master:gh-pages
 ```
 
-Check the staging site at http://https://dejangrubisic.cc/staging
+Check the staging site at http://dejangrubisic.github.io/staging
 
 ## License
 
