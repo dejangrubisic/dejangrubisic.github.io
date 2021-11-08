@@ -77,585 +77,469 @@
 
 
     {
-      "name": "Petrovaradin fortress under snow",
-      "tags": [
-        "Serbia"
-      ],
-      "url-full": "/img/art/novi-sad-1.jpg",
-      "url-small": "/img/art/novi-sad-1.jpg"
-    },
-    {
-      "name": "Novi Sad catedral",
-      "tags": [
-        "Serbia"
-      ],
-      "url-full": "/img/art/novi-sad-2.jpg",
-      "url-small": "/img/art/novi-sad-2.jpg"
-    },
-    {
-      "name": "Novi Sad city hall",
-      "tags": [
-        "Serbia"
-      ],
-      "url-full": "/img/art/novi-sad-3.jpg",
-      "url-small": "/img/art/novi-sad-3.jpg"
-    },
-    {
-      "name": "Petrovaradin fortress clock",
-      "tags": [
-        "Serbia"
-      ],
-      "url-full": "/img/art/novi-sad-4.jpg",
-      "url-small": "/img/art/novi-sad-4.jpg"
-    },
-    {
-      "name": "Iron man",
-      "tags": [
-        "Serbia"
-      ],
-      "url-full": "/img/art/novi-sad-5.jpg",
-      "url-small": "/img/art/novi-sad-5.jpg"
-    },
-    {
-      "name": "Petrovaradin fortress in fall",
-      "tags": [
-        "Serbia"
-      ],
-      "url-full": "/img/art/novi-sad-6.jpg",
-      "url-small": "/img/art/novi-sad-6.jpg"
-    },
-    {
-      "name": "Novi Sad rail bridge",
-      "tags": [
-        "Serbia"
-      ],
-      "url-full": "/img/art/novi-sad-7.jpg",
-      "url-small": "/img/art/novi-sad-7.jpg"
-    },
-    {
-      "name": "Novi Sad main street",
-      "tags": [
-        "Serbia"
-      ],
-      "url-full": "/img/art/novi-sad-8.jpg",
-      "url-small": "/img/art/novi-sad-8.jpg"
-    },
-    {
-      "name": "Novi Sad city center",
-      "tags": [
-        "Serbia"
-      ],
-      "url-full": "/img/art/novi-sad-9.jpg",
-      "url-small": "/img/art/novi-sad-9.jpg"
-    },
-    {
-      "name": "Novi Sad common transportation",
-      "tags": [
-        "Serbia"
-      ],
-      "url-full": "/img/art/novi-sad-10.jpg",
-      "url-small": "/img/art/novi-sad-10.jpg"
-    },
-    {
-      "name": "Novi Sad main street",
-      "tags": [
-        "Serbia"
-      ],
-      "url-full": "/img/art/novi-sad-11.jpg",
-      "url-small": "/img/art/novi-sad-11.jpg"
-    },
-    {
-      "name": "Novi Sad catedral",
-      "tags": [
-        "Serbia"
-      ],
-      "url-full": "/img/art/novi-sad-12.jpg",
-      "url-small": "/img/art/novi-sad-12.jpg"
-    },
-    {
-      "name": "Novi Sad bridge of freedom",
-      "tags": [
-        "Serbia"
-      ],
-      "url-full": "/img/art/novi-sad-13.jpg",
-      "url-small": "/img/art/novi-sad-13.jpg"
-    },
-    {
-      "name": "Petrovaradin fortress",
-      "tags": [
-        "Serbia"
-      ],
-      "url-full": "/img/art/novi-sad-14.jpg",
-      "url-small": "/img/art/novi-sad-14.jpg"
-    },
-    {
-      "name": "Novi Sad river walk",
-      "tags": [
-        "Serbia"
-      ],
-      "url-full": "/img/art/novi-sad-15.jpg",
-      "url-small": "/img/art/novi-sad-15.jpg"
-    },
-    {
-      "name": "Petrovaradin clock sunset",
-      "tags": [
-        "Serbia"
-      ],
-      "url-full": "/img/art/novi-sad-16.jpg",
-      "url-small": "/img/art/novi-sad-16.jpg"
-    },
-    {
-      "name": "Novi Sad's first grammar school",
-      "tags": [
-        "Serbia"
-      ],
-      "url-full": "/img/art/novi-sad-17.jpg",
-      "url-small": "/img/art/novi-sad-17.jpg"
-    },
-    {
-      "name": "Petrovaradin fortress",
-      "tags": [
-        "Serbia"
-      ],
-      "url-full": "/img/art/novi-sad-18.jpg",
-      "url-small": "/img/art/novi-sad-18.jpg"
-    },
-    {
-      "name": "Petrovaradin fortress",
-      "tags": [
-        "Serbia"
-      ],
-      "url-full": "/img/art/novi-sad-19.jpg",
-      "url-small": "/img/art/novi-sad-19.jpg"
-    },
-    {
-      "name": "Danube river",
-      "tags": [
-        "Serbia"
-      ],
-      "url-full": "/img/art/novi-sad-20.jpg",
-      "url-small": "/img/art/novi-sad-20.jpg"
-    },
-    {
-      "name": "Danube river",
-      "tags": [
-        "Serbia"
-      ],
-      "url-full": "/img/art/novi-sad-21.jpg",
-      "url-small": "/img/art/novi-sad-21.jpg"
-    },
-    {
-      "name": "Novi Sad downtown",
-      "tags": [
-        "Serbia"
-      ],
-      "url-full": "/img/art/novi-sad-22.jpg",
-      "url-small": "/img/art/novi-sad-22.jpg"
-    },
-    {
-      "name": "Novi Sad bridge of freedom",
-      "tags": [
-        "Serbia"
-      ],
-      "url-full": "/img/art/novi-sad-23.jpg",
-      "url-small": "/img/art/novi-sad-23.jpg"
-    },
-    {
-      "name": "Novi Sad catedral in December, 2020",
-      "tags": [
-        "Serbia"
-      ],
-      "url-full": "/img/art/novi-sad-24.jpg",
-      "url-small": "/img/art/novi-sad-24.jpg"
-    },
-    {
-      "name": "Fruska gora harvesting season",
-      "tags": [
-        "Serbia"
-      ],
-      "url-full": "/img/art/novi-sad-25.jpg",
-      "url-small": "/img/art/novi-sad-25.jpg"
-    },
-    {
-      "name": "Novi Sad main square",
-      "tags": [
-        "Serbia"
-      ],
-      "url-full": "/img/art/novi-sad-26.jpg",
-      "url-small": "/img/art/novi-sad-26.jpg"
-    },
-    {
-      "name": "Novi Sad Matica Srpska",
-      "tags": [
-        "Serbia"
-      ],
-      "url-full": "/img/art/novi-sad-27.jpg",
-      "url-small": "/img/art/novi-sad-27.jpg"
-    },
-    {
-      "name": "Novi Sad synagogue",
-      "tags": [
-        "Serbia"
-      ],
-      "url-full": "/img/art/novi-sad-28.jpg",
-      "url-small": "/img/art/novi-sad-28.jpg"
-    },
-    {
-      "name": "Rakija making",
-      "tags": [
-        "Serbia"
-      ],
-      "url-full": "/img/art/novi-sad-29.jpg",
-      "url-small": "/img/art/novi-sad-29.jpg"
-    },
-    {
-      "name": "Traditional breakfast",
-      "tags": [
-        "Serbia"
-      ],
-      "url-full": "/img/art/novi-sad-30.jpg",
-      "url-small": "/img/art/novi-sad-30.jpg"
-    },
-
-    {
-      "name": "First Serbian grammar school",
-      "tags": [
-        "Serbia"
-      ],
-      "url-full": "/img/art/serbia-1.jpg",
-      "url-small": "/img/art/serbia-1.jpg"
-    },
-    {
-      "name": "Belgrade winner",
-      "tags": [
-        "Serbia"
-      ],
-      "url-full": "/img/art/serbia-2.jpg",
-      "url-small": "/img/art/serbia-2.jpg"
-    },
-    {
-      "name": "Foggy mountines",
-      "tags": [
-        "Serbia"
-      ],
-      "url-full": "/img/art/serbia-3.jpg",
-      "url-small": "/img/art/serbia-3.jpg"
-    },
-    {
-      "name": "Uvac river",
-      "tags": [
-        "Serbia"
-      ],
-      "url-full": "/img/art/serbia-4.jpg",
-      "url-small": "/img/art/serbia-4.jpg"
-    },
-    {
-      "name": "Serbian mountines",
-      "tags": [
-        "Serbia"
-      ],
-      "url-full": "/img/art/serbia-5.jpg",
-      "url-small": "/img/art/serbia-5.jpg"
-    },
-    {
-      "name": "Old ship",
-      "tags": [
-        "Serbia"
-      ],
-      "url-full": "/img/art/serbia-6.jpg",
-      "url-small": "/img/art/serbia-6.jpg"
-    },
-    {
-      "name": "Cloud face",
-      "tags": [
-        "Serbia"
-      ],
-      "url-full": "/img/art/serbia-7.jpg",
-      "url-small": "/img/art/serbia-7.jpg"
-    },
-    {
-      "name": "Two store house",
-      "tags": [
-        "Serbia"
-      ],
-      "url-full": "/img/art/serbia-8.jpg",
-      "url-small": "/img/art/serbia-8.jpg"
-    },
-    {
-      "name": "Saint Sava church",
-      "tags": [
-        "Serbia"
-      ],
-      "url-full": "/img/art/serbia-9.jpg",
-      "url-small": "/img/art/serbia-9.jpg"
-    },
-    {
-      "name": "Stepa Stepanovic neighborhood",
-      "tags": [
-        "Serbia"
-      ],
-      "url-full": "/img/art/serbia-10.jpg",
-      "url-small": "/img/art/serbia-10.jpg"
-    },
-    {
-      "name": "Monastery",
-      "tags": [
-        "Serbia"
-      ],
-      "url-full": "/img/art/serbia-11.jpg",
-      "url-small": "/img/art/serbia-11.jpg"
-    },
-    {
-      "name": "Belgrade winner",
-      "tags": [
-        "Serbia"
-      ],
-      "url-full": "/img/art/serbia-12.jpg",
-      "url-small": "/img/art/serbia-12.jpg"
-    },
-    {
-      "name": "Tesla museum, 2020.",
-      "tags": [
-        "Serbia"
-      ],
-      "url-full": "/img/art/serbia-13.jpg",
-      "url-small": "/img/art/serbia-13.jpg"
-    },
-    {
-      "name": "Belgrade",
-      "tags": [
-        "Serbia"
-      ],
-      "url-full": "/img/art/serbia-14.jpg",
-      "url-small": "/img/art/serbia-14.jpg"
-    },
-    {
-      "name": "Belgrade twins",
-      "tags": [
-        "Serbia"
-      ],
-      "url-full": "/img/art/serbia-15.jpg",
-      "url-small": "/img/art/serbia-15.jpg"
-    },
-    {
-      "name": "River house",
-      "tags": [
-        "Serbia"
-      ],
-      "url-full": "/img/art/serbia-16.jpg",
-      "url-small": "/img/art/serbia-16.jpg"
-    },
-    {
-      "name": "Avala tower",
-      "tags": [
-        "Serbia"
-      ],
-      "url-full": "/img/art/serbia-17.jpg",
-      "url-small": "/img/art/serbia-17.jpg"
-    },
-    {
-      "name": "Golubac castle",
-      "tags": [
-        "Serbia"
-      ],
-      "url-full": "/img/art/serbia-18.jpg",
-      "url-small": "/img/art/serbia-18.jpg"
-    },
-    {
-      "name": "Belgrade winner",
-      "tags": [
-        "Serbia"
-      ],
-      "url-full": "/img/art/serbia-19.jpg",
-      "url-small": "/img/art/serbia-19.jpg"
-    },
-    {
-      "name": "Serbia landscape",
-      "tags": [
-        "Serbia"
-      ],
-      "url-full": "/img/art/serbia-20.jpg",
-      "url-small": "/img/art/serbia-20.jpg"
-    },
-    {
-      "name": "Serbia landscape",
-      "tags": [
-        "Serbia"
-      ],
-      "url-full": "/img/art/serbia-21.jpg",
-      "url-small": "/img/art/serbia-21.jpg"
-    },
-    {
-      "name": "Zica monastery",
-      "tags": [
-        "Serbia"
-      ],
-      "url-full": "/img/art/serbia-22.jpg",
-      "url-small": "/img/art/serbia-22.jpg"
-    },
-    {
-      "name": "Sain Sava church",
-      "tags": [
-        "Serbia"
-      ],
-      "url-full": "/img/art/serbia-23.jpg",
-      "url-small": "/img/art/serbia-23.jpg"
-    },
-    {
-      "name": "Lavanda fields",
-      "tags": [
-        "Serbia"
-      ],
-      "url-full": "/img/art/serbia-24.jpg",
-      "url-small": "/img/art/serbia-24.jpg"
-    },
-    {
-      "name": "Serbia landscape",
-      "tags": [
-        "Serbia"
-      ],
-      "url-full": "/img/art/serbia-25.jpg",
-      "url-small": "/img/art/serbia-25.jpg"
-    },
-    {
-      "name": "Slow river",
-      "tags": [
-        "Serbia"
-      ],
-      "url-full": "/img/art/serbia-26.jpg",
-      "url-small": "/img/art/serbia-26.jpg"
-    },
-    {
-      "name": "Mountains",
-      "tags": [
-        "Serbia"
-      ],
-      "url-full": "/img/art/serbia-27.jpg",
-      "url-small": "/img/art/serbia-27.jpg"
-    },
-    {
-      "name": "Mountains",
-      "tags": [
-        "Serbia"
-      ],
-      "url-full": "/img/art/serbia-28.jpg",
-      "url-small": "/img/art/serbia-28.jpg"
-    },
-    {
-      "name": "Mountain river",
-      "tags": [
-        "Serbia"
-      ],
-      "url-full": "/img/art/serbia-29.jpg",
-      "url-small": "/img/art/serbia-29.jpg"
-    },
-    {
-      "name": "Morning in Belgrade",
-      "tags": [
-        "Serbia"
-      ],
-      "url-full": "/img/art/serbia-30.jpg",
-      "url-small": "/img/art/serbia-30.jpg"
-    },
-    {
-      "name": "River meander",
-      "tags": [
-        "Serbia"
-      ],
-      "url-full": "/img/art/serbia-31.jpg",
-      "url-small": "/img/art/serbia-31.jpg"
-    },
-    {
-      "name": "Mountain river",
-      "tags": [
-        "Serbia"
-      ],
-      "url-full": "/img/art/serbia-32.jpg",
-      "url-small": "/img/art/serbia-32.jpg"
-    },
-    {
-      "name": "Monastery",
-      "tags": [
-        "Serbia"
-      ],
-      "url-full": "/img/art/serbia-33.jpg",
-      "url-small": "/img/art/serbia-33.jpg"
-    },
-    {
-      "name": "Water light play",
-      "tags": [
-        "Serbia"
-      ],
-      "url-full": "/img/art/serbia-34.jpg",
-      "url-small": "/img/art/serbia-34.jpg"
-    },
-    {
-      "name": "Monastery on hill",
-      "tags": [
-        "Serbia"
-      ],
-      "url-full": "/img/art/serbia-35.jpg",
-      "url-small": "/img/art/serbia-35.jpg"
-    },
-    {
-      "name": "Sain Sava church",
-      "tags": [
-        "Serbia"
-      ],
-      "url-full": "/img/art/serbia-36.jpg",
-      "url-small": "/img/art/serbia-36.jpg"
-    },
-    {
-      "name": "Serbia mountain lake",
-      "tags": [
-        "Serbia"
-      ],
-      "url-full": "/img/art/serbia-37.jpg",
-      "url-small": "/img/art/serbia-37.jpg"
-    },
-
-
-    {
-      "name": "Barcelona, 2016",
+      "name": "Two angels, Greece",
       "tags": [
         "Travel"
       ],
-      "url-full": "/img/art/travel-1.jpg",
-      "url-small": "/img/art/travel-1.jpg"
+      "url-full": "/img/art/angels.jpg",
+      "url-small": "/img/art/angels.jpg"
     },
     {
-      "name": "Barcelona, 2016",
+      "name": "Indoor city, Germany",
       "tags": [
         "Travel"
       ],
-      "url-full": "/img/art/travel-2.jpg",
-      "url-small": "/img/art/travel-2.jpg"
+      "url-full": "/img/art/aqua-park.jpg",
+      "url-small": "/img/art/aqua-park.jpg"
     },
     {
-      "name": "Venece, 2016",
+      "name": "Athos cold air, Greece",
       "tags": [
         "Travel"
       ],
-      "url-full": "/img/art/travel-3.jpg",
-      "url-small": "/img/art/travel-3.jpg"
+      "url-full": "/img/art/athos-cold-air.jpg",
+      "url-small": "/img/art/athos-cold-air.jpg"
     },
     {
-      "name": "Houston house construction",
+      "name": "Diner abow the sky, Greece",
       "tags": [
         "Travel"
       ],
-      "url-full": "/img/art/travel-4.jpg",
-      "url-small": "/img/art/travel-4.jpg"
+      "url-full": "/img/art/athos-diner.jpg",
+      "url-small": "/img/art/athos-diner.jpg"
     },
     {
-      "name": "Duncan Hall ceiling",
+      "name": "Transportation for extreeme terain, Greece",
       "tags": [
         "Travel"
       ],
-      "url-full": "/img/art/travel-5.jpg",
-      "url-small": "/img/art/travel-5.jpg"
+      "url-full": "/img/art/athos-mazgas.jpg",
+      "url-small": "/img/art/athos-mazgas.jpg"
+    },
+    {
+      "name": "The birth of Sun, Greece",
+      "tags": [
+        "Travel"
+      ],
+      "url-full": "/img/art/athos-sunrising.jpg",
+      "url-small": "/img/art/athos-sunrising.jpg"
+    },
+    {
+      "name": "The cutest town in Germany, Bamberg",
+      "tags": [
+        "Travel"
+      ],
+      "url-full": "/img/art/bamberg.jpg",
+      "url-small": "/img/art/bamberg.jpg"
+    },
+    {
+      "name": "Transportation that never sleep, Frankfurt",
+      "tags": [
+        "Travel"
+      ],
+      "url-full": "/img/art/banhof.jpg",
+      "url-small": "/img/art/banhof.jpg"
+    },
+    {
+      "name": "Opulent market, Barcelona",
+      "tags": [
+        "Serbia"
+      ],
+      "url-full": "/img/art/barcelona-bazar.jpg",
+      "url-small": "/img/art/barcelona-bazar.jpg"
+    },
+    {
+      "name": "City fontain, Barcelona",
+      "tags": [
+        "Travel"
+      ],
+      "url-full": "/img/art/barcelona-fountain.jpg",
+      "url-small": "/img/art/barcelona-fountain.jpg"
+    },
+    {
+      "name": "Arc de Triomf, Barcelona",
+      "tags": [
+        "Travel"
+      ],
+      "url-full": "/img/art/barcelona-gate.jpg",
+      "url-small": "/img/art/barcelona-gate.jpg"
+    },
+    {
+      "name": "Gotic church, Barcelona",
+      "tags": [
+        "Travel"
+      ],
+      "url-full": "/img/art/barcelona-gotic.jpg",
+      "url-small": "/img/art/barcelona-gotic.jpg"
+    },
+    {
+      "name": "Place where magic happens, Barcelona",
+      "tags": [
+        "Travel"
+      ],
+      "url-full": "/img/art/barcelona-camp-know.jpg",
+      "url-small": "/img/art/barcelona-camp-know.jpg"
+    },
+    {
+      "name": "Sagrada Familia, Barcelona",
+      "tags": [
+        "Travel"
+      ],
+      "url-full": "/img/art/barcelona-sagrada-familia.jpg",
+      "url-small": "/img/art/barcelona-sagrada-familia.jpg"
+    },
+    {
+      "name": "Futuristic train station, Berlin",
+      "tags": [
+        "Travel"
+      ],
+      "url-full": "/img/art/berlin-banhof.jpg",
+      "url-small": "/img/art/berlin-banhof.jpg"
+    },
+    {
+      "name": "City river, Berlin",
+      "tags": [
+        "Travel"
+      ],
+      "url-full": "/img/art/berlin-bridge.jpg",
+      "url-small": "/img/art/berlin-bridge.jpg"
+    },
+    {
+      "name": "City transportation, Berlin",
+      "tags": [
+        "Travel"
+      ],
+      "url-full": "/img/art/berlin-metro.jpg",
+      "url-small": "/img/art/berlin-metro.jpg"
+    },
+    {
+      "name": "Cloud tower, Berlin",
+      "tags": [
+        "Travel"
+      ],
+      "url-full": "/img/art/berlin-tower.jpg",
+      "url-small": "/img/art/berlin-tower.jpg"
+    },
+    {
+      "name": "Nature highway, Croatia",
+      "tags": [
+        "Travel"
+      ],
+      "url-full": "/img/art/bug-column.jpg",
+      "url-small": "/img/art/bug-column.jpg"
+    },
+    {
+      "name": "Clean sea, Croatia",
+      "tags": [
+        "Travel"
+      ],
+      "url-full": "/img/art/clean-sea.jpg",
+      "url-small": "/img/art/clean-sea.jpg"
+    },
+    {
+      "name": "Cloud factory, Slovenia",
+      "tags": [
+        "Travel"
+      ],
+      "url-full": "/img/art/cloud-factory.jpg",
+      "url-small": "/img/art/cloud-factory.jpg"
+    },
+    {
+      "name": "This is how everything began, Germany",
+      "tags": [
+        "Travel"
+      ],
+      "url-full": "/img/art/computing-machine.jpg",
+      "url-small": "/img/art/computing-machine.jpg"
+    },
+    {
+      "name": "Dresden bee, Dresden",
+      "tags": [
+        "Travel"
+      ],
+      "url-full": "/img/art/dresden-bee.jpg",
+      "url-small": "/img/art/dresden-bee.jpg"
+    },
+    {
+      "name": "Red light house, Dresden",
+      "tags": [
+        "Travel"
+      ],
+      "url-full": "/img/art/dresden-bee.jpg",
+      "url-small": "/img/art/dresden-bee.jpg"
+    },
+    {
+      "name": "Stone road, Dresden",
+      "tags": [
+        "Travel"
+      ],
+      "url-full": "/img/art/dresden-road.jpg",
+      "url-small": "/img/art/dresden-road.jpg"
+    },
+    {
+      "name": "Green machines, Dresden",
+      "tags": [
+        "Travel"
+      ],
+      "url-full": "/img/art/dresden-trees.jpg",
+      "url-small": "/img/art/dresden-trees.jpg"
+    },
+    {
+      "name": "My student room, Frankfurt Oder",
+      "tags": [
+        "Travel"
+      ],
+      "url-full": "/img/art/frankfurt-room.jpg",
+      "url-small": "/img/art/frankfurt-room.jpg"
+    },
+    {
+      "name": "Gothe's sitting place, Frankfurt",
+      "tags": [
+        "Travel"
+      ],
+      "url-full": "/img/art/frankfurt-window.jpg",
+      "url-small": "/img/art/frankfurt-window.jpg"
+    },
+    {
+      "name": "Rock passage, Grand Cannon",
+      "tags": [
+        "Travel"
+      ],
+      "url-full": "/img/art/grand-cannon-passage.jpg",
+      "url-small": "/img/art/grand-cannon-passage.jpg"
+    },
+    {
+      "name": "Place where time stops, Grand Cannon",
+      "tags": [
+        "Travel"
+      ],
+      "url-full": "/img/art/grand-cannon-view.jpg",
+      "url-small": "/img/art/grand-cannon-view.jpg"
+    },
+    {
+      "name": "Water curtain, Greece",
+      "tags": [
+        "Travel"
+      ],
+      "url-full": "/img/art/greece-waterfalls.jpg",
+      "url-small": "/img/art/greece-waterfalls.jpg"
+    },
+    {
+      "name": "Green building, Germany",
+      "tags": [
+        "Travel"
+      ],
+      "url-full": "/img/art/green-building.jpg",
+      "url-small": "/img/art/green-building.jpg"
+    },
+    {
+      "name": "Flying machine, Germany",
+      "tags": [
+        "Travel"
+      ],
+      "url-full": "/img/art/helicopter.jpg",
+      "url-small": "/img/art/helicopter.jpg"
+    },
+    {
+      "name": "Wooden million dollar house, Houston",
+      "tags": [
+        "Travel"
+      ],
+      "url-full": "/img/art/houston-construction.jpg",
+      "url-small": "/img/art/houston-construction.jpg"
+    },
+    {
+      "name": "View through the window, Houston",
+      "tags": [
+        "Travel"
+      ],
+      "url-full": "/img/art/houston-windowview.jpg",
+      "url-small": "/img/art/houston-windowview.jpg"
+    },
+    {
+      "name": "Landscape, Italy",
+      "tags": [
+        "Travel"
+      ],
+      "url-full": "/img/art/italy.jpg",
+      "url-small": "/img/art/italy.jpg"
+    },
+    {
+      "name": "Modern city, Miami",
+      "tags": [
+        "Travel"
+      ],
+      "url-full": "/img/art/miami-skyscrapers.jpg",
+      "url-small": "/img/art/miami-skyscrapers.jpg"
+    },
+    {
+      "name": "Mediteranian city, France",
+      "tags": [
+        "Travel"
+      ],
+      "url-full": "/img/art/monaco-flags.jpg",
+      "url-small": "/img/art/monaco-flags.jpg"
+    },
+    {
+      "name": "Monte Carlo castle, France",
+      "tags": [
+        "Travel"
+      ],
+      "url-full": "/img/art/monte-carlo-castle.jpg",
+      "url-small": "/img/art/monte-carlo-castle.jpg"
+    },
+    {
+      "name": "Munich city hall, Germany",
+      "tags": [
+        "Travel"
+      ],
+      "url-full": "/img/art/munich-city-hall.jpg",
+      "url-small": "/img/art/munich-city-hall.jpg"
+    },
+    {
+      "name": "New Orleans house, Luisiana",
+      "tags": [
+        "Travel"
+      ],
+      "url-full": "/img/art/new-orleans-house.jpg",
+      "url-small": "/img/art/new-orleans-house.jpg"
+    },
+    {
+      "name": "Child fountain, France",
+      "tags": [
+        "Travel"
+      ],
+      "url-full": "/img/art/nica-fountain.jpg",
+      "url-small": "/img/art/nica-fountain.jpg"
+    },
+    {
+      "name": "Old clock, Prague",
+      "tags": [
+        "Travel"
+      ],
+      "url-full": "/img/art/prague-clock.jpg",
+      "url-small": "/img/art/prague-clock.jpg"
+    },
+    {
+      "name": "City of 100 towers, Prague",
+      "tags": [
+        "Travel"
+      ],
+      "url-full": "/img/art/prague-towers.jpg",
+      "url-small": "/img/art/prague-towers.jpg"
+    },
+    {
+      "name": "Regensburg river sunset, Germany",
+      "tags": [
+        "Travel"
+      ],
+      "url-full": "/img/art/regensburg.jpg",
+      "url-small": "/img/art/regensburg.jpg"
+    },
+    {
+      "name": "Rice University main hall, Houston",
+      "tags": [
+        "Travel"
+      ],
+      "url-full": "/img/art/rice-hall.jpg",
+      "url-small": "/img/art/rice-hall.jpg"
+    },
+    {
+      "name": "Rimini beach in the morning, Italy",
+      "tags": [
+        "Travel"
+      ],
+      "url-full": "/img/art/rimini-beach.jpg",
+      "url-small": "/img/art/rimini-beach.jpg"
+    },
+    {
+      "name": "Boats on beach, Italy",
+      "tags": [
+        "Travel"
+      ],
+      "url-full": "/img/art/rimini-boats.jpg",
+      "url-small": "/img/art/rimini-boats.jpg"
+    },
+    {
+      "name": "Italy countryside, Italy",
+      "tags": [
+        "Travel"
+      ],
+      "url-full": "/img/art/rimini-hills.jpg",
+      "url-small": "/img/art/rimini-hills.jpg"
+    },
+    {
+      "name": "Cliff stadium tribune, Italy",
+      "tags": [
+        "Travel"
+      ],
+      "url-full": "/img/art/san-marino-football.jpg",
+      "url-small": "/img/art/san-marino-football.jpg"
+    },
+    {
+      "name": "San Marino castle hill, Italy",
+      "tags": [
+        "Travel"
+      ],
+      "url-full": "/img/art/san-marino-path.jpg",
+      "url-small": "/img/art/san-marino-path.jpg"
+    },
+    {
+      "name": "San Marino tower, Italy",
+      "tags": [
+        "Travel"
+      ],
+      "url-full": "/img/art/san-marino-tower.jpg",
+      "url-small": "/img/art/san-marino-tower.jpg"
+    },
+    {
+      "name": "Skopje Matka cannon, North Macedonia",
+      "tags": [
+        "Travel"
+      ],
+      "url-full": "/img/art/skopje-matka.jpg",
+      "url-small": "/img/art/skopje-matka.jpg"
+    },
+    {
+      "name": "Anchored gondolas, Venece",
+      "tags": [
+        "Travel"
+      ],
+      "url-full": "/img/art/venece-gondolas.jpg",
+      "url-small": "/img/art/venece-gondolas.jpg"
+    },
+    {
+      "name": "Doge's palace, Venece",
+      "tags": [
+        "Travel"
+      ],
+      "url-full": "/img/art/venece-palace.jpg",
+      "url-small": "/img/art/venece-palace.jpg"
+    },
+    {
+      "name": "San Marco Basilica, Venece",
+      "tags": [
+        "Travel"
+      ],
+      "url-full": "/img/art/venece-church.jpg",
+      "url-small": "/img/art/venece-church.jpg"
+    },
+    {
+      "name": "City on the water, Venece",
+      "tags": [
+        "Travel"
+      ],
+      "url-full": "/img/art/venece-channel.jpg",
+      "url-small": "/img/art/venece-channel.jpg"
+    },
+    {
+      "name": "Zlatibor monument, Serbia",
+      "tags": [
+        "Serbia"
+      ],
+      "url-full": "/img/art/zlatibor-monument.jpg",
+      "url-small": "/img/art/zlatibor-monument.jpg"
     }
-
   ],
   "tags": [
     "Travel",
