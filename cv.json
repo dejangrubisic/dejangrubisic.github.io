@@ -296,6 +296,14 @@
       "website": "https://www.nersc.gov"
     },
     {
+      "company": "Argonne Lab",
+      "endDate": "Aug. 2021",
+      "position": "Argonne Training Program on Extreme-Scale Computing",
+      "startDate": "Aug. 2021",
+      "summary": "Hands-on tutorials on cutting-edge supercomputing.",
+      "website": "https://extremecomputingtraining.anl.gov/"
+    },
+    {
       "company": "Rice University",
       "endDate": "present",
       "position": "Teaching assistant",
