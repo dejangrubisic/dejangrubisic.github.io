@@ -550,6 +550,14 @@
       "url-small": "/img/art/colorado-countryside-mountines.jpg"
     },
     {
+      "name": "All you need is 4 wheels and good will, Colorado",
+      "tags": [
+        "Travel"
+      ],
+      "url-full": "/img/art/colorado-car.jpg",
+      "url-small": "/img/art/colorado-car.jpg"
+    },
+    {
       "name": "Countryside, Colorado",
       "tags": [
         "Travel"
@@ -564,6 +572,14 @@
       ],
       "url-full": "/img/art/colorado-handshake.jpg",
       "url-small": "/img/art/colorado-handshake.jpg"
+    },
+    {
+      "name": "Holding the sun, Colorado",
+      "tags": [
+        "Travel"
+      ],
+      "url-full": "/img/art/colorado-holding-sun.jpg",
+      "url-small": "/img/art/colorado-holding-sun.jpg"
     },
     {
       "name": "It's easy for animals to move, plants needs to stay still and adapt, Colorado",
