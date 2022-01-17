@@ -532,7 +532,22 @@
       "url-full": "/img/art/venece-channel.jpg",
       "url-small": "/img/art/venece-channel.jpg"
     },
-
+    {
+      "name": "Dressy shoes, Texas",
+      "tags": [
+        "Travel"
+      ],
+      "url-full": "/img/art/dallas-boots.jpg",
+      "url-small": "/img/art/dallas-boots.jpg"
+    },
+    {
+      "name": "Stockyard festival, Texas",
+      "tags": [
+        "Travel"
+      ],
+      "url-full": "/img/art/dallas-bull.jpg",
+      "url-small": "/img/art/dallas-bull.jpg"
+    },
     {
       "name": "Steps towards the peak, Colorado",
       "tags": [
