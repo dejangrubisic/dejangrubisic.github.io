@@ -192,7 +192,7 @@
         },
         {
           "name": "Source Code",
-          "url": "https://github.com/HPCToolkit"
+          "url": "https://github.com/HPCToolkit/hpctoolkit"
         }
       ],
       "authors": "Keren Zhou, Laksono Adhianto, Jonathon Anderson, Aaron Cherian, **Dejan Grubisic**, Mark Krentel, Yumeng Liu, Xiaozhu Meng, John Mellor-Crummey",
@@ -206,11 +206,11 @@
       "assets": [
         {
           "name": "Paper",
-          "url": ""
+          "url": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9651230"
         },
         {
           "name": "Source Code",
-          "url": "https://github.com/HPCToolkit"
+          "url": "https://github.com/HPCToolkit/hpctoolkit"
         }
       ],
       "authors": "Aaron Thomas Cherian, Keren Zhou, **Dejan Grubisic**, Xiaozhu Meng, John Mellor-Crummey",
@@ -225,7 +225,11 @@
         {
           "name": "Paper",
           "url": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9470950"
-        }
+        },
+        {
+          "name": "Source Code",
+          "url": "https://github.com/Jokeren/GPA"
+        }        
       ],
       "authors": "Keren Zhou, Xiaozhu Meng, Ryuichi Sai, **Dejan Grubisic**, John Mellor-Crummey",
       "name": "An Automated Tool for Analysis and Tuning of GPU-accelerated Code in HPC Applications",
