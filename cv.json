@@ -292,6 +292,13 @@
       "website": "https://csweb.rice.edu"
     },
     {
+      "company": "Meta Systems (FAIR)",
+      "endDate": "present",
+      "position": "Research Engineer Intern",
+      "startDate": "May 2022",
+      "summary": "Developing deep reinforcement learning compiler for optimizing tensor operations."
+    },
+    {
       "company": "Berkeley Lab",
       "endDate": "Oct. 2021",
       "position": "Software Engineer Intern",
@@ -342,6 +349,11 @@
   ],
   "software": {
     "hacks_and_demos": [
+      {
+        "name": "NLP: Extracting features from clinical patient notes",
+        "picture": "/img/software/patient_notes.png",
+        "url": "/pub/projects/patient_notes.pdf"
+      },
       {
         "name": "Pacwar: Finding the strongest gene",
         "picture": "/img/software/pacwar.png",
