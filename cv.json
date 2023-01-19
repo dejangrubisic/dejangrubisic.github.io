@@ -188,6 +188,24 @@
       "assets": [
         {
           "name": "Paper",
+          "url": "https://openreview.net/pdf?id=3VTwQ-gbN0c"
+        },
+        {
+          "name": "Source Code",
+          "url": "https://github.com/facebookresearch/loop_tool"
+        }
+      ],
+      "authors": "Bram Wasti, **Dejan Grubisic**, Benoit Steiner, Aleksandar Zlateski",
+      "name": "LoopStack: ML-friendly ML Compiler Stack",
+      "picture": "https://dejangrubisic.github.io/pub/LoopStack ML-friendly ML Compiler Stack.png",
+      "publication": "[Neural Information Processing Systems 22'](https://nips.cc/virtual/2022/workshop/49961)",
+      "releaseDate": "2022",
+      "summary": "We present LoopStack, a domain-specific compiler stack for tensor operations. LoopStack is orders of magnitude faster than LLVM, while resulting in equal or improved run time performance, while defining predictable optimization space suitable for tuning with reinforcement learning."
+    },
+    {
+      "assets": [
+        {
+          "name": "Paper",
           "url": "https://arxiv.org/pdf/2109.06931.pdf"
         },
         {
