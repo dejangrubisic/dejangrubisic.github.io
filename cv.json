@@ -224,7 +224,7 @@
       "assets": [
         {
           "name": "Paper",
-          "url": "https://raw.githubusercontent.com/dejangrubisic/dejangrubisic.github.io/master/pub/Measurement and Analysis of GPU-accelerated Applications with HpcToolkit.pdf"
+          "url": "https://raw.githubusercontent.com/dejangrubisic/dejangrubisic.github.io/master/pub/Measurement and Analysis%20of GPU-accelerated Applications with HPCToolkit.pdf"
         },
         {
           "name": "Source Code",
@@ -236,7 +236,7 @@
       "picture": "https://dejangrubisic.github.io/pub/Measurement and Analysis of GPU-accelerated Applications with HpcToolkit.png",
       "publication": "[Parallel Computing Journal](https://www.journals.elsevier.com/parallel-computing)",
       "releaseDate": "2021",
-      "summary": "To address the challenge of performance analysis on the US DOE’s forthcoming exascale supercomputers, Rice University has been extending its HPCToolkit performance tools to support measurement and analysis of GPU-accelerated applications."
+      "summary": "To address the challenge of performance analysis on the US DOE forthcoming exascale supercomputers, Rice University has been extending its HPCToolkit performance tools to support measurement and analysis of GPU-accelerated applications."
     },
     {
       "assets": [
