@@ -188,7 +188,25 @@
       "assets": [
         {
           "name": "Paper",
-          "url": "https://openreview.net/pdf?id=3VTwQ-gbN0c"
+          "url": "https://raw.githubusercontent.com/dejangrubisic/dejangrubisic.github.io/master/pub/LoopTune Optimizing Tensor Programs with Reinforcement Learning.pdf"
+        },
+        {
+          "name": "Source Code",
+          "url": "https://github.com/loopstack/loop_tune"
+        }
+      ],
+      "authors": "**Dejan Grubisic**, Bram Wasti, Chris Cummins, Aleksandar Zlateski",
+      "name": "LoopTune: Optimizing Tensor Programs with Reinforcement Learning",
+      "picture": "https://dejangrubisic.github.io/pub/LoopTune Optimizing Tensor Programs with Reinforcement Learning.png",
+      "publication": "[International Conference on Machine Learning 23' (Under submission)](https://icml.cc/Conferences/2023)",
+      "releaseDate": "2023",
+      "summary": "We present LoopTune, a deep reinforcement learning framework for optimizing tensor computations in deep learning models. LoopTune consistently exceeds the performance of traditional search-based algorithms, TVM, performing at the level of hand-tuned library Numpy."
+    },
+    {
+      "assets": [
+        {
+          "name": "Paper",
+          "url": "https://raw.githubusercontent.com/dejangrubisic/dejangrubisic.github.io/master/pub/LoopStack ML-friendly ML Compiler Stack.pdf"
         },
         {
           "name": "Source Code",
@@ -206,7 +224,7 @@
       "assets": [
         {
           "name": "Paper",
-          "url": "https://arxiv.org/pdf/2109.06931.pdf"
+          "url": "https://raw.githubusercontent.com/dejangrubisic/dejangrubisic.github.io/master/pub/Measurement and Analysis of GPU-accelerated Applications with HpcToolkit.pdf"
         },
         {
           "name": "Source Code",
@@ -224,7 +242,7 @@
       "assets": [
         {
           "name": "Paper",
-          "url": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9651230"
+          "url": "https://raw.githubusercontent.com/dejangrubisic/dejangrubisic.github.io/master/pub/Measurement and Analysis of GPU-Accelerated OpenCL Computations on Intel GPUs.pdf"
         },
         {
           "name": "Source Code",
@@ -232,7 +250,7 @@
         }
       ],
       "authors": "Aaron Thomas Cherian, Keren Zhou, **Dejan Grubisic**, Xiaozhu Meng, John Mellor-Crummey",
-      "name": "Measurement and Analysis of GPU-Accelerated OpenCL Computations on Intel GPUs (under submission)",
+      "name": "Measurement and Analysis of GPU-Accelerated OpenCL Computations on Intel GPUs",
       "picture": "https://dejangrubisic.github.io/pub/Measurement and Analysis of GPU-Accelerated OpenCL Computations on Intel GPUs.png",
       "publication": "[ProTools](https://protools21.github.io/)",
       "releaseDate": "2021",
@@ -242,7 +260,7 @@
       "assets": [
         {
           "name": "Paper",
-          "url": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9470950"
+          "url": "https://raw.githubusercontent.com/dejangrubisic/dejangrubisic.github.io/master/pub/An Automated Tool for Analysis and Tuning of GPU-accelerated Code in HPC Applications.pdf"
         },
         {
           "name": "Source Code",
@@ -260,7 +278,7 @@
       "assets": [
         {
           "name": "Monography",
-          "url": "http://www.ftn.uns.ac.rs/ojs/index.php/zbornik/article/view/707/538"
+          "url": "https://raw.githubusercontent.com/dejangrubisic/dejangrubisic.github.io/master/pub/Sistem za pronalazenje najkrace putanje izmedju lokacija sa tezinama putanja promenjivim u realnom vremenu zasnovan na arhitekturi lambda.pdf"
         },
         {
           "name": "Source Code",
