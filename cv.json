@@ -188,6 +188,20 @@
       "assets": [
         {
           "name": "Paper",
+          "url": "https://arxiv.org/pdf/2309.07062.pdf"
+        }
+      ],
+      "authors": "Chris Cummins, Volker Seeker, **Dejan Grubisic**, Mostafa Elhoushi, Youwei Liang, Baptiste Roziere, Jonas Gehring, Fabian Gloeckle, Kim Hazelwood, Gabriel Synnaeve, Hugh Leather",
+      "name": "Large Language Models for Compiler Optimization",
+      "picture": "https://dejangrubisic.github.io/pub/Large Language Models for Compiler Optimization.png",
+      "publication": "[Available on Arxiv](https://arxiv.org/abs/2309.07062)",
+      "releaseDate": "2023",
+      "summary": "We present a 7B-parameter LLaMa2-based model trained from scratch to optimize LLVM assembly for code size. Our approach achieves a 3.0% improvement in reducing instruction counts over the compiler with zero compilations, outperforming two state-of-the-art baselines that require thousands of compilations."
+    },
+    {
+      "assets": [
+        {
+          "name": "Paper",
           "url": "https://raw.githubusercontent.com/dejangrubisic/dejangrubisic.github.io/master/pub/LoopTune Optimizing Tensor Programs with Reinforcement Learning.pdf"
         },
         {
@@ -198,7 +212,7 @@
       "authors": "**Dejan Grubisic**, Bram Wasti, Chris Cummins, Aleksandar Zlateski",
       "name": "LoopTune: Optimizing Tensor Programs with Reinforcement Learning",
       "picture": "https://dejangrubisic.github.io/pub/LoopTune Optimizing Tensor Programs with Reinforcement Learning.png",
-      "publication": "[International Conference on Machine Learning 23' (Under submission)](https://icml.cc/Conferences/2023)",
+      "publication": "[International Conference on Compiler Construction 24' (Under submission)](https://conf.researchr.org/home/CC-2024)",
       "releaseDate": "2023",
       "summary": "We present LoopTune, a deep reinforcement learning framework for optimizing tensor computations in deep learning models. LoopTune consistently exceeds the performance of traditional search-based algorithms, TVM, performing at the level of hand-tuned library Numpy."
     },
@@ -328,8 +342,15 @@
       "website": "https://csweb.rice.edu"
     },
     {
-      "company": "Meta Systems (FAIR)",
+      "company": "Meta AI",
       "endDate": "present",
+      "position": "Research Engineer Intern",
+      "startDate": "May 2023",
+      "summary": "Finetuning Llama2-based model on LLVM IR programs to solve phase-ordering problem."
+    },
+    {
+      "company": "Meta AI",
+      "endDate": "Dec. 2022",
       "position": "Research Engineer Intern",
       "startDate": "May 2022",
       "summary": "Developing deep reinforcement learning compiler for optimizing tensor operations."
