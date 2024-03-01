@@ -188,6 +188,19 @@
       "assets": [
         {
           "name": "Paper",
+          "url": "https://arxiv.org/pdf/2402.18734.pdf"
+        }
+      ],
+      "authors": "**Dejan Grubisic**, Chris Cummins, Volker Seeker, Hugh Leather",
+      "name": "Priority Sampling of Large Language Models for Compilers",
+      "picture": "https://dejangrubisic.github.io/pub/Priority Sampling of Large Language Models for Compilers.png",
+      "publication": "[Available on Arxiv](https://arxiv.org/abs/2402.18734)",
+      "releaseDate": "2024",
+      "summary": "We present Priority Sampling, a simple and deterministic sampling technique that produces unique samples ordered by the model's confidence. Priority Sampling outperforms Nucleus Sampling for any number of samples, boosting the performance of the original model from 2.87% to 5% improvement over -Oz."
+    },
+      "assets": [
+        {
+          "name": "Paper",
           "url": "https://arxiv.org/pdf/2309.07062.pdf"
         }
       ],
