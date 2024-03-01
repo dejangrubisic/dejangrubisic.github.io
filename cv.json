@@ -198,6 +198,7 @@
       "releaseDate": "2024",
       "summary": "We present Priority Sampling, a simple and deterministic sampling technique that produces unique samples ordered by the model's confidence. Priority Sampling outperforms Nucleus Sampling for any number of samples, boosting the performance of the original model from 2.87% to 5% improvement over -Oz."
     },
+    {
       "assets": [
         {
           "name": "Paper",
