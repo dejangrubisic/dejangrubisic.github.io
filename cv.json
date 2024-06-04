@@ -433,9 +433,19 @@
   "software": {
     "hacks_and_demos": [
       {
-        "name": "Machine Learning for Compilers",
+        "name": "Large Language Models for Compilers",
+        "picture": "/img/software/llms_compilers.png",
+        "url": "https://arxiv.org/pdf/2309.07062"
+      },
+      {
+        "name": "Priority Sampling of Large Language Models",
+        "picture": "/img/software/priority_sampling.png",
+        "url": "https://arxiv.org/pdf/2402.18734"
+      },
+      {
+        "name": "Reinforcement Learning for Compilers",
         "picture": "/img/software/looptune.png",
-        "url": "https://dejangrubisic.github.io/u/ed/phd-thesis.pdf"
+        "url": "https://arxiv.org/pdf/2309.01825"
       },
       {
         "name": "NLP: Extracting features from clinical patient notes",
