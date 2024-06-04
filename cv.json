@@ -22,6 +22,18 @@
       {
         "assets": [
           {
+            "name": "Video",
+            "url": "https://youtu.be/U94Fl5br8dw?si=4cOzsIWOF7wVdrTE"
+          }
+        ],
+        "date": "2024",
+        "duration": "13 minutes",
+        "name": "Priority Sampling of Large Language Models for Compilers, EuroMLSys 2024, Athens",
+        "summary": "Presentation of Priority Sampling - a simple deterministic sampling technique for LLM that achieves suprisingly high performance."
+      },
+      {
+        "assets": [
+          {
             "name": "Slides",
             "url": "https://docs.google.com/presentation/d/1ZQjONyTkiI-o-ZKnRvqDQ-KaJpK2cvfQ/edit?usp=sharing&ouid=117886173589204029440&rtpof=true&sd=true"
           }
@@ -128,8 +140,12 @@
       "assets": [
         {
           "name": "Thesis",
-          "url": "https://dejangrubisic.github.io/u/ed/phd-thesis"
-        }     
+          "url": "https://dejangrubisic.github.io/u/ed/phd-thesis.pdf"
+        },
+        {
+          "name": "Video",
+          "url": "https://youtu.be/5IopuMrG2u4?si=yCICklF9FEnO1epc"
+        }             
       ],
       "endDate": "2024",
       "institution": "Rice University",
