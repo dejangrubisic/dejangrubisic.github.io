@@ -433,6 +433,11 @@
   "software": {
     "hacks_and_demos": [
       {
+        "name": "Machine Learning for Compilers",
+        "picture": "/img/software/looptune.png",
+        "url": "https://dejangrubisic.github.io/u/ed/phd-thesis.pdf"
+      },
+      {
         "name": "NLP: Extracting features from clinical patient notes",
         "picture": "/img/software/patient_notes.png",
         "url": "/pub/projects/patient_notes.pdf"
