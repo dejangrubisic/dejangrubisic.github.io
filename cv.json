@@ -124,23 +124,19 @@
   },
   "education": [
     {
-      "advisors": "[John Mellor-Crummey](https://scholar.google.com/citations?user=wX0XpxMAAAAJ&hl=en) and [Zoran Budimlic](https://scholar.google.com/citations?hl=en&user=zg9zDcsAAAAJ)",
+      "advisors": "[John Mellor-Crummey](https://scholar.google.com/citations?user=wX0XpxMAAAAJ&hl=en), [Aleksandar Zlateski](https://scholar.google.co.uk/citations?hl=en&user=UHyFyT0AAAAJ) and [Chris Cummins](https://scholar.google.co.uk/citations?user=MUwvoZgAAAAJ&hl=en)",
       "assets": [
         {
-          "name": "Research Project Report",
-          "url": "https://dejangrubisic.github.io/u/ed/research-project-report.pdf"
-        },
-        {
-          "name": "Source Code",
-          "url": "https://github.com/dejangrubisic/hpctoolkit"
-        }
+          "name": "Thesis",
+          "url": "https://dejangrubisic.github.io/u/ed/phd-thesis"
+        }     
       ],
-      "endDate": "present",
+      "endDate": "2024",
       "institution": "Rice University",
       "startDate": "2019",
       "studyType": "PhD Computer Science",
-      "summary": "Developed infrastructure for scalable GPU profiling over many GPU nodes. Added support for measuring performance counters and node level metric in HPCToolkit, as well as GPU-idleness analysis, which points the cause of serialization in GPU code.",
-      "thesis": "Performance measurement, analysis and optimization of large scale applications"
+      "summary": "Thesis focus on the use of Machine Learning in Compilers. First, we developed LoopTune, a reinforcement-learning-based framework for optimizing tensor computations, a core component of ML workloads. Second, we pioneered the use of Large Language Models (LLMs) in compiler optimization by predicting the sequence of LLVM optimization flags directly from LLVM-IR in text form. Third, Finally, we developed Unique Sampling, a simple deterministic sampling technique for LLM that produces unique samples ordered by the model’s confidence and outperforms the label's performance with 30 samples. Additionally, developed infrastructure for scalable GPU profiling over many GPU nodes. Added support for measuring performance counters and node level metrics in HPCToolkit, as well as GPU-idleness analysis, which points to the cause of serialization in GPU code.",
+      "thesis": "Optimizing Compiler Heuristics with Machine Learning"
     },
     {
       "advisors": "[Vladimir Dimitrieski](http://www.ftn.uns.ac.rs/1417838837/vladimir-dimitrieski)",
@@ -348,19 +344,27 @@
   ],
   "work": [
     {
-      "company": "Rice University",
+      "company": "Meta AI",
       "endDate": "present",
-      "position": "Ph.D. researcher",
+      "position": "Research Scientist",
+      "startDate": "2024",
+      "summary": "Making better recommendation systems.",
+      "website": ""
+    },
+    {
+      "company": "Rice University",
+      "endDate": "2024",
+      "position": "Ph.D. Researcher",
       "startDate": "2019",
-      "summary": "Working on development of [HPCToolkit](http://hpctoolkit.org/), large-scale profiling tool used widely accross US national labs. Curently implemented infrastructure for scalable GPU tracing, node-level metric tracing, performance counters, and various performance analysis.",
+      "summary": "Working on use of Machine Learning in Compilers ([thesis](https://repository.rice.edu/server/api/core/bitstreams/cd936a08-adb7-4aeb-933c-c78f7a1a5da7/content)). Developed several tools and techniques that deploy Reinforcement Learning, Large Language Models, and advanced search techniques in compilers. Additionally, working on development of [HPCToolkit](http://hpctoolkit.org/), large-scale profiling tool used widely accross US national labs. Implemented infrastructure for scalable GPU tracing, node-level metric tracing, performance counters, and various performance analysis.",
       "website": "https://csweb.rice.edu"
     },
     {
       "company": "Meta AI",
-      "endDate": "present",
+      "endDate": "Dec. 2023",
       "position": "Research Engineer Intern",
       "startDate": "May 2023",
-      "summary": "Finetuning Llama2-based model on LLVM IR programs to solve phase-ordering problem."
+      "summary": "Finetuning Llama2-based model on LLVM IR programs to solve phase-ordering problem. Developing Priority Sampling method that reaches the performance test data with 30 samples."
     },
     {
       "company": "Meta AI",
