@@ -23,12 +23,24 @@
         "assets": [
           {
             "name": "Video",
+            "url": "https://youtu.be/5IopuMrG2u4"
+          }
+        ],
+        "date": "2024",
+        "duration": "1 hour 13 minutes",
+        "name": "Optimizing Compiler Heuristics with Machine Learning, PhD Thesis Defense",
+        "summary": "Demonstrating the use of machine learning in compilers, using reinforcement learning, large language models, and advanced techniques for sampling."
+      },
+      {
+        "assets": [
+          {
+            "name": "Video",
             "url": "https://youtu.be/U94Fl5br8dw?si=4cOzsIWOF7wVdrTE"
           }
         ],
         "date": "2024",
         "duration": "13 minutes",
-        "name": "Priority Sampling of Large Language Models for Compilers, EuroMLSys 2024, Athens",
+        "name": "Priority Sampling of Large Language Models for Compilers, EuroMLSys24",
         "summary": "Presentation of Priority Sampling - a simple deterministic sampling technique for LLM that achieves suprisingly high performance."
       },
       {
@@ -40,8 +52,8 @@
         ],
         "date": "2019",
         "duration": "45 minutes",
-        "name": "Finding Shortest Path in Dynamic Large-scale Graph, based on Lambda Architecture",
-        "summary": "Presentation of master thesis."
+        "name": "Finding Shortest Path in Dynamic Large-scale Graph, based on Lambda Architecture, Master's Thesis Defense",
+        "summary": "Implementing system for finding shortest path in dynamic graph suitable for big data."
       },
       {
         "assets": [
@@ -52,8 +64,8 @@
         ],
         "date": "2018",
         "duration": "45 minutes",
-        "name": "Hardware-acceleration-of-chess-engine",
-        "summary": "Presentation of bachelor thesis."
+        "name": "Hardware-acceleration-of-chess-engine, Bachelor's Thesis Defense",
+        "summary": "Implemenging FPGA component for accelerating evaluation of the board in chess engine."
       },
       {
         "assets": [
