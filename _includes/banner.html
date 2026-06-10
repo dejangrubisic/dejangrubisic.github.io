@@ -1,11 +1,6 @@
 <div class="banner">
   <h1 class="noselect"><a href="{{ '/' | relative_url }}">DEJAN<strong>GRUBISIC</strong></a></h1>
   <p>
-    {% if page.url == "/" %}
-      <span>blog</span> |
-    {% else %}
-      <a href="{{ '/' | relative_url }}">blog</a> |
-    {% endif %}
     {% if page.url == "/cv/" %}
       <span>resume</span> |
     {% else %}

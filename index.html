@@ -3,23 +3,15 @@ title: Dejan Grubisic
 banner: /img/banners/novi-sad-catedral.jpg
 ---
 
-<div class="big-list">
-  {% for post in site.posts %}
-  {% assign currentdate = post.date | date: "%Y" %}
-  {% if currentdate != date %}
-  {% unless forloop.first %}</ul>{% endunless %}
-  <h1>{{ currentdate }}</h1>
-  <ul>
-    {% assign date = currentdate %}
-    {% endif %}
-    <li>
-      <span class="hang-right">{{ post.date | date: "%-d %b" }}</span>
-      <a href="{{ post.url | relative_url }}">
-        {{ post.title }}
-      </a>
-      <span class="hang-left">{{ post.date | date: "%-d %b" }}</span>
-    </li>
-    {% if forloop.last %}</ul>{% endif %}
-  {% endfor %}
-  </ul>
+<div class="content">
+  <p>
+    Curious, innovative, driven PhD student with a passion for understanding
+    program performance and optimizations.
+  </p>
+  <p>
+    Use the links above to browse my
+    <a href="{{ '/cv/' | relative_url }}">resume</a>,
+    <a href="{{ '/software/' | relative_url }}">software</a>, and
+    <a href="{{ '/art/' | relative_url }}">art gallery</a>.
+  </p>
 </div>
