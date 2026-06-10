@@ -99,9 +99,39 @@
       "title": "Serbian government fellowship"
     }
   ],
+  "community": [
+    {
+      "company": "Southeast Europe AI Summit",
+      "endDate": "present",
+      "position": "Founder",
+      "startDate": "Jan. 2026",
+      "summary": "Founded a summit dedicated to growing the AI ecosystem and connecting researchers, builders, and companies across Southeast Europe.",
+      "website": "https://seeaisummit.org/",
+      "assets": [
+        {
+          "name": "Website",
+          "url": "https://seeaisummit.org/"
+        }
+      ]
+    },
+    {
+      "company": "Serbian AI Society",
+      "endDate": "present",
+      "position": "Ecosystem Team Lead",
+      "startDate": "Jun. 2023",
+      "summary": "Leading ecosystem-building efforts to foster the growth of the Serbian AI community, connecting academia, industry, and the diaspora.",
+      "website": "https://www.linkedin.com/company/serbian-ai-society/",
+      "assets": [
+        {
+          "name": "Website",
+          "url": "https://www.linkedin.com/company/serbian-ai-society/"
+        }
+      ]
+    }
+  ],
   "basics": {
-    "email": "dejan.grubisic@rice.com",
-    "label": "Ph.D.  Student",
+    "email": "dgrubisic03@gmail.com",
+    "label": "Member of Technical Staff",
     "languages": [
       {
         "fluency": "Full professional proficiency",
@@ -113,7 +143,7 @@
       }
     ],
     "location": {
-      "city": "Houston",
+      "city": "Palo Alto",
       "countryCode": "USA"
     },
     "name": "Dejan Grubisic",
@@ -127,7 +157,7 @@
         "network": "GitHub",
         "url": "https://github.com/dejangrubisic",
         "username": "dejangrubisic"
-      },      
+      },
       {
         "network": "Facebook",
         "url": "https://www.facebook.com/profile.php?id=100002781218552",
@@ -139,7 +169,7 @@
         "username": "dejan-grubisic-157b9614a/"
       }
     ],
-    "summary": "Full time geek and re\u00adsearch stu\u00addent with a pas\u00adsion for de\u00advel\u00adop\u00ading great soft\u00adware, of\u00adten late at night.",
+    "summary": "I am a Member of Technical Staff at Axiom, working on the best AI model for Mathematics. I got my PhD from Rice University in Houston, Texas, developing Meta's LLM Compiler and HPCToolkit, a widely recognized open-source profiler for supercomputing systems. Throughout my career, I worked at leading research institutions such as Meta's Modern Recommendation Systems and Foundational AI Research, Berkeley Lab, and the Institute for High-Performance Microelectronics in Germany. In addition to technical expertise, I am actively involved in fostering the growth of the Serbian AI Ecosystem, serving as Ecosystem Lead for the Serbian AI Society.",
     "website": "https://dejangrubisic.github.io"
   },
   "education": [
@@ -153,7 +183,7 @@
         {
           "name": "Video",
           "url": "https://youtu.be/5IopuMrG2u4?si=yCICklF9FEnO1epc"
-        }             
+        }
       ],
       "endDate": "2024",
       "institution": "Rice University",
@@ -303,7 +333,7 @@
       "publication": "[ProTools](https://protools21.github.io/)",
       "releaseDate": "2021",
       "summary": "In this paper, we describe extensions to Rice University's HPCToolkit performance tools that support measurement and analysis of Intel's DPC++ programming model for GPU-accelerated systems atop an implementation of the industry-standard OpenCL framework for heterogeneous parallelism on Intel GPUs"
-    },    
+    },
     {
       "assets": [
         {
@@ -313,7 +343,7 @@
         {
           "name": "Source Code",
           "url": "https://github.com/Jokeren/GPA"
-        }        
+        }
       ],
       "authors": "Keren Zhou, Xiaozhu Meng, Ryuichi Sai, **Dejan Grubisic**, John Mellor-Crummey",
       "name": "An Automated Tool for Analysis and Tuning of GPU-accelerated Code in HPC Applications",
@@ -368,11 +398,19 @@
   ],
   "work": [
     {
-      "company": "Meta AI",
+      "company": "Axiom Math",
       "endDate": "present",
-      "position": "Research Scientist",
-      "startDate": "2024",
-      "summary": "Making better recommendation systems.",
+      "position": "Member of Technical Staff",
+      "startDate": "Jun. 2025",
+      "summary": "Developing the best AI model for mathematics.",
+      "website": "https://axiommath.ai"
+    },
+    {
+      "company": "Meta AI",
+      "endDate": "Jun. 2025",
+      "position": "AI Research Scientist",
+      "startDate": "Jul. 2024",
+      "summary": "Worked on modern recommendation systems and Foundational AI Research (FAIR), where I contributed to Meta's LLM Compiler.",
       "website": ""
     },
     {
@@ -571,7 +609,6 @@
         "url": "/pub/projects/fusion.pdf"
       }
     ],
-    
     "open_source_contributions": [
       {
         "name": "CnC-Madness",
@@ -581,4 +618,3 @@
     ]
   }
 }
-

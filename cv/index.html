@@ -19,6 +19,21 @@ banner: /img/banners/novi-sad-petrovaradin.jpg
 </div>{% comment  %} /.cec-navbar-container {% endcomment %}
 
 <div class="cv big-list">
+  <div class="intro">
+    <h1>Hi There!</h1>
+    <p class="justify">
+      I am a Member of Technical Staff at Axiom, working on the best AI model for
+      Mathematics. I got my PhD from Rice University in Houston, Texas,
+      developing Meta's LLM Compiler and HPCToolkit, a widely recognized
+      open-source profiler for supercomputing systems. Throughout my career, I
+      worked at leading research institutions such as Meta's Modern
+      Recommendation Systems and Foundational AI Research, Berkeley Lab, and the
+      Institute for High-Performance Microelectronics in Germany. In addition to
+      technical expertise, I am actively involved in fostering the growth of the
+      Serbian AI Ecosystem, serving as Ecosystem Lead for the Serbian AI Society.
+    </p>
+  </div>
+
   <h1>Professional Experience <a class="expand-all" role="button" href="#work">expand all</a></h1>
   <ul>
   {% for entry in site.data.cv.work %}
@@ -180,6 +195,36 @@ banner: /img/banners/novi-sad-petrovaradin.jpg
               {% endif %}
             </div>
           </div>
+        </div>
+      </div>
+    </li>
+  {% endfor %}
+  </ul>
+
+  <h1>Community &amp; Leadership <a class="expand-all" role="button" href="#community">expand all</a></h1>
+  <ul>
+  {% for entry in site.data.cv.community %}
+    <li class="has-caret">
+      <span class="hang-right">{{ entry.startDate }}{% if entry.endDate != entry.startDate %}-{% if entry.endDate == "" %}current{% else %}{{ entry.endDate }}{% endif %}{% endif %}</span>
+      <a class="undecorated" role="button" data-toggle="collapse" href="#community-{{ forloop.index }}" aria-expanded="false" aria-controls="community-{{ forloop.index }}">{{ entry.company }}, {{ entry.position }}</a>
+      <span class="hang-left">{{ entry.startDate }}{% if entry.endDate != entry.startDate %}-{% if entry.endDate == "" %}current{% else %}{{ entry.endDate }}{% endif %}{% endif %}</span>
+      <div class="work collapse" id="community-{{ forloop.index }}">
+        <div class="collapse-content">
+          <p class="justify">
+            {{ entry.summary | markdownify | remove: '<p>' | remove: '</p>' }}
+          </p>
+          {% if entry.assets %}
+            <div class="btn-row">
+            <ul>
+              {% for asset in entry.assets %}
+                                                        {% assign icon = "fa-external-link" %}
+                {% if asset.url contains "github.com" %}{% assign icon = "fa-github" %}{% endif %}
+                {% if asset.url contains ".pdf" %}      {% assign icon = "fa-file-pdf-o" %}{% endif %}
+                <li><a title="Link opens in new window" target="_blank" href="{{ asset.url }}" class="btn btn-primary undecorated" role="button">{{ asset.name }} <i class="fa {{ icon }}" aria-hidden="true"></i></a></li>
+              {% endfor %}
+            </ul>
+            </div>
+          {% endif %}
         </div>
       </div>
     </li>
