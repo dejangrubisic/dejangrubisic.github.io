@@ -1,9 +1,6 @@
 {% comment %} Open Graph protocol. See: http://ogp.me/ {% endcomment %}
-{% if page.url == "/" %}
-<meta property="og:type" content="blog" />
-{% else %}
-<meta property="og:type" content="article" />
-{% endif %}
+<meta property="og:type" content="website" />
+
 <meta property="og:site_name" content="dejangrubisic.github.io" />
 <meta property="og:url" content="{{ page.url | absolute_url }}" />
 <meta property="og:title" content="{{ page.title }}" />

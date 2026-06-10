@@ -3,3 +3,5 @@
 /Gemfile.lock
 /img/banners/unused
 _site/
+.idea/
+*.iml

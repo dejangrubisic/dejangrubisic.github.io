@@ -1,4 +1,4 @@
-# This is the data for my blog
+# Personal website of Dejan Grubisic
 
 It is automatically transformed by [Jekyll](http://github.com/mojombo/jekyll)
 into a static site whenever I push this repository to GitHub.
@@ -30,22 +30,12 @@ $ make all
 $ make run
 ```
 
-## Pushing to staging site
-
-```sh
-$ git remote add staging git@github.com:ChrisCummins/staging.git
-$ git push staging master:gh-pages
-```
-
-Check the staging site at http://dejangrubisic.github.io/staging
-
 ## License
 
 The website code is
-[MIT Licensed](https://github.com/ChrisCummins/chriscummins.github.io/blob/master/LICENSE),
+[MIT Licensed](https://github.com/dejangrubisic/dejangrubisic.github.io/blob/master/LICENSE),
 but the website *content* is not. The following directories and their contents
 are copyright Dejan Grubisic:
-* `_posts/`
 * `images/`,
 * `img/`,
 * `pub/`
