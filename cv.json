@@ -238,6 +238,71 @@
       "assets": [
         {
           "name": "Paper",
+          "url": "https://arxiv.org/pdf/2603.29970.pdf"
+        }
+      ],
+      "authors": "David Kurniadi Angdinata, Evan Chen, Chris Cummins, Ben Eltschig, **Dejan Grubisic**, et al.",
+      "name": "ABC implies that Ramanujan's tau function misses almost all primes",
+      "publication": "[Indagationes Mathematicae (also on arXiv)](https://arxiv.org/abs/2603.29970)",
+      "releaseDate": "2026",
+      "summary": "Assuming the abc Conjecture, we prove that Ramanujan's tau function misses a density-one subset of the primes, taking prime values far less often than previously known."
+    },
+    {
+      "assets": [
+        {
+          "name": "Paper",
+          "url": "https://arxiv.org/pdf/2602.05090.pdf"
+        }
+      ],
+      "authors": "Evan Chen, Chris Cummins, Ben Eltschig, **Dejan Grubisic**, et al.",
+      "name": "Almost all primes are partially regular",
+      "publication": "[Available on arXiv](https://arxiv.org/abs/2602.05090)",
+      "releaseDate": "2026",
+      "summary": "We prove that almost all primes are partially regular, with the proof automatically formalized in the Lean proof assistant, and draw implications for p-adic L-functions and algebraic K-theory."
+    },
+    {
+      "assets": [
+        {
+          "name": "Paper",
+          "url": "https://arxiv.org/pdf/2602.05095.pdf"
+        }
+      ],
+      "authors": "Evan Chen, Chris Cummins, Ben Eltschig, **Dejan Grubisic**, et al.",
+      "name": "Dead ends in square-free digit walks",
+      "publication": "[Available on arXiv](https://arxiv.org/abs/2602.05095)",
+      "releaseDate": "2026",
+      "summary": "We study \"dead ends\" in square-free digit walks, derive a closed-form expression for their density across all bases, and show the true density is far smaller than a prior 2024 prediction."
+    },
+    {
+      "assets": [
+        {
+          "name": "Paper",
+          "url": "https://arxiv.org/pdf/2602.03716.pdf"
+        }
+      ],
+      "authors": "Evan Chen, Chris Cummins, Ben Eltschig, **Dejan Grubisic**, et al.",
+      "name": "Fel's Conjecture on Syzygies of Numerical Semigroups",
+      "publication": "[Available on arXiv](https://arxiv.org/abs/2602.03716)",
+      "releaseDate": "2026",
+      "summary": "We prove Fel's conjecture, giving an explicit formula for the syzygies of numerical semigroups via gap power sums, with the full proof formalized in the Lean proof assistant."
+    },
+    {
+      "assets": [
+        {
+          "name": "Paper",
+          "url": "https://arxiv.org/pdf/2407.02524.pdf"
+        }
+      ],
+      "authors": "Chris Cummins, Volker Seeker, **Dejan Grubisic**, Baptiste Roziere, Jonas Gehring, Gabriel Synnaeve, Hugh Leather",
+      "name": "LLM Compiler: Foundation Language Models for Compiler Optimization",
+      "publication": "[Compiler Construction (CC '25)](https://conf.researchr.org/home/CC-2025)",
+      "releaseDate": "2025",
+      "summary": "We present LLM Compiler, a suite of LLMs built on Code Llama and trained on 546B tokens of LLVM-IR and assembly for compiler optimization, reaching 77% of the optimizing potential of an autotuning search and enabling assembly disassembly."
+    },
+    {
+      "assets": [
+        {
+          "name": "Paper",
           "url": "https://arxiv.org/pdf/2402.18734.pdf"
         }
       ],
@@ -247,6 +312,19 @@
       "publication": "[Available on Arxiv](https://arxiv.org/abs/2402.18734)",
       "releaseDate": "2024",
       "summary": "We present Priority Sampling, a simple and deterministic sampling technique that produces unique samples ordered by the model's confidence. Priority Sampling outperforms Nucleus Sampling for any number of samples, boosting the performance of the original model from 2.87% to 5% improvement over -Oz."
+    },
+    {
+      "assets": [
+        {
+          "name": "Paper",
+          "url": "https://arxiv.org/pdf/2403.14714.pdf"
+        }
+      ],
+      "authors": "**Dejan Grubisic**, Chris Cummins, Volker Seeker, Hugh Leather",
+      "name": "Compiler Generated Feedback for Large Language Models",
+      "publication": "[Available on arXiv](https://arxiv.org/abs/2403.14714)",
+      "releaseDate": "2024",
+      "summary": "We introduce a system in which an LLM optimizes LLVM IR using compiler feedback: the model emits optimized IR, the best passes, and instruction counts, and the compiler validates the result to drive iterative improvement."
     },
     {
       "assets": [
