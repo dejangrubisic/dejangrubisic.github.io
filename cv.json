@@ -452,11 +452,12 @@
   "skills": [
     {
       "keywords": [
-        "C/C++",
         "Python",
+        "C/C++",
         "CudaC",
         "GNU / Linux",
         "Bash",
+        "Lean",
         "OpenMP/MPI",
         "VHDL"
       ],
