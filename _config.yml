@@ -93,9 +93,9 @@ jumbotron_content_gap: 30
 # logos for social networks. Obfuscated names to prevent simple rule-based
 # ad blocking.
 social_images:
-  facebook:  /img/atw/8dd8ef87f47c829d6dc1a491e06929bb.png
-  github:    /img/atw/1ed153fe358ed0d5d38553df372687d6.png
-  linkedin:  /img/atw/5c95cc032204cec372b9d9ccbd84191d.png
+  "google scholar": /img/atw/4c8e1a7f9b2d65083e1c4a9f7b2d6e30.png
+  github:           /img/atw/1ed153fe358ed0d5d38553df372687d6.png
+  linkedin:         /img/atw/5c95cc032204cec372b9d9ccbd84191d.png
 
 copyright:
   owner: Dejan Grubisic
