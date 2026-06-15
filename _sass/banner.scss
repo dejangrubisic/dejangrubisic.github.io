@@ -2,7 +2,24 @@
     // title banner
     div.banner {
         background-color: $color-background;
-        display: inline-block;
+        display: inline-flex;
+        align-items: center;
+
+        // circular profile photo to the left of the title
+        img.banner-photo {
+            flex-shrink: 0;
+            width: 64px;
+            height: 64px;
+            border-radius: 50%;
+            object-fit: cover;
+            border: 3px solid lightcoral;
+            margin-right: 16px;
+
+            @media (min-width: $screen-xs-min) {
+                width: 72px;
+                height: 72px;
+            }
+        }
 
 
         @media (prefers-color-scheme: dark) {
