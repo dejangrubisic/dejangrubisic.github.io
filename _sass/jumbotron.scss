@@ -62,8 +62,8 @@
                 z-index: 2;
                 margin-right: 0;
                 border-width: 5px;
-                width: clamp(126px, 27vw, 308px);
-                height: clamp(126px, 27vw, 308px);
+                width: clamp(110px, 22vw, 240px);
+                height: clamp(110px, 22vw, 240px);
             }
 
             // black panel slides out from behind the photo
@@ -98,10 +98,10 @@
             text-align: left;
 
             // offset relative to center:
-            margin: -25px 0 0 -15px;
+            margin: -25px 0 0 -45px;
         }
         @media (min-width: $screen-lg-min) {
-            margin: -25px 0 0 -15px;
+            margin: -25px 0 0 -45px;
         }
     }
 }
