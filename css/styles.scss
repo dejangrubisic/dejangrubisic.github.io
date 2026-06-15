@@ -195,6 +195,14 @@ code {
             background-color: $color-background;
             @media (prefers-color-scheme: dark) { background-color: $dm-color-background; }
 
+            // keep the sidebar avatar small
+            img.banner-photo {
+                width: 40px;
+                height: 40px;
+                border-width: 2px;
+                margin-right: 10px;
+            }
+
             h1 {
                 margin-bottom: .2em;
                 font-size: 19px;
