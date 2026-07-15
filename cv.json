@@ -481,7 +481,7 @@
       "endDate": "Jul. 2026",
       "position": "Founding Engineer",
       "startDate": "Jun. 2025",
-      "summary": "Developing the best AI model for mathematics. I lead a 4-engineer team delivering a large-scale autoformalization pipeline, and engineered an AI system for algorithm optimization that is formally verified in [Lean](https://lean-lang.org/). I also helped build Axiom's first agentic system for automated theorem proving in Lean. Alongside this, I developed a system for scalable data collection and contributed to model training.",
+      "summary": "Developing the best AI model for mathematics. I lead a 4-engineer team delivering a large-scale autoformalization pipeline, and engineered an AI system for code optimization that is formally verified in [Lean](https://lean-lang.org/). I also helped build Axiom's first agentic system for automated theorem proving in Lean. Alongside this, I developed a system for scalable data collection and contributed to model training.",
       "website": "https://axiommath.ai"
     },
     {
