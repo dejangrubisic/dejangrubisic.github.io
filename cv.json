@@ -478,18 +478,18 @@
   "work": [
     {
       "company": "Axiom Math",
-      "endDate": "present",
-      "position": "Member of Technical Staff",
+      "endDate": "Jul. 2026",
+      "position": "Founding Engineer",
       "startDate": "Jun. 2025",
-      "summary": "Developing the best AI model for mathematics.",
+      "summary": "Developing the best AI model for mathematics. I lead a 4-engineer team delivering a large-scale autoformalization pipeline, and engineered an AI system for algorithm optimization that is formally verified in [Lean](https://lean-lang.org/). I also helped build Axiom's first agentic system for automated theorem proving in Lean. Alongside this, I developed a system for scalable data collection and contributed to model training.",
       "website": "https://axiommath.ai"
     },
     {
-      "company": "Meta AI",
+      "company": "Meta - Modern Recommendation Systems",
       "endDate": "Jun. 2025",
       "position": "AI Research Scientist",
       "startDate": "Jul. 2024",
-      "summary": "Worked on modern recommendation systems and Foundational AI Research (FAIR), where I contributed to Meta's LLM Compiler.",
+      "summary": "Co-designed foundation models for retrieval, ranking, and content understanding across Meta's recommendation stack. I also optimized Facebook Feed ranking model training for GPU efficiency and scalability.",
       "website": ""
     },
     {
@@ -501,18 +501,18 @@
       "website": "https://csweb.rice.edu"
     },
     {
-      "company": "Meta AI",
+      "company": "Meta - Fundamental AI Research (FAIR)",
       "endDate": "Dec. 2023",
-      "position": "Research Engineer Intern",
+      "position": "Machine Learning Research Intern",
       "startDate": "May 2023",
-      "summary": "Finetuning Llama2-based model on LLVM IR programs to solve phase-ordering problem. Developing Priority Sampling method that reaches the performance test data with 30 samples."
+      "summary": "Contributed to Meta's [LLM Compiler](https://arxiv.org/pdf/2407.02524.pdf), a suite of foundation models for compiler optimization. I fine-tuned Llama 2-based models on LLVM IR programs to solve the phase-ordering problem, and analyzed LLM capability in applying 60 LLVM optimizations. I also developed [Priority Sampling](https://arxiv.org/pdf/2402.18734.pdf), a method that reaches the performance of the test data within 30 samples."
     },
     {
-      "company": "Meta AI",
+      "company": "Meta - Fundamental AI Research (FAIR)",
       "endDate": "Dec. 2022",
-      "position": "Research Engineer Intern",
+      "position": "Machine Learning Research Intern",
       "startDate": "May 2022",
-      "summary": "Developing deep reinforcement learning compiler for optimizing tensor operations."
+      "summary": "Built [LoopTune](https://github.com/loopstack/loop_tune), a deep reinforcement learning framework for optimizing tensor operations. I built and tuned the cost and policy deep learning models behind it."
     },
     {
       "company": "Berkeley Lab",
