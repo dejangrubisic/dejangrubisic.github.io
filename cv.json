@@ -593,6 +593,11 @@
         "url": "https://github.com/dejangrubisic/Hardware-acceleration-of-chess-engine"
       },
       {
+        "name": "Monitoring metric traces on GPUs",
+        "picture": "/img/software/berkeley2021.jpg",
+        "url": "/pub/projects/berkeley2021.pdf"
+      },
+      {
         "name": "Lock free concurrent skip list",
         "picture": "/img/software/skiplist.png",
         "url": "/pub/projects/concurrent_skiplist.pdf"
