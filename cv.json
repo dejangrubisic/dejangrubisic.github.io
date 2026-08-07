@@ -243,6 +243,7 @@
       ],
       "authors": "David Kurniadi Angdinata, Evan Chen, Chris Cummins, Ben Eltschig, **Dejan Grubisic**, et al.",
       "name": "ABC implies that Ramanujan's tau function misses almost all primes",
+      "picture": "https://dejangrubisic.github.io/pub/ABC implies that Ramanujan's tau function misses almost all primes.png",
       "publication": "[Indagationes Mathematicae (also on arXiv)](https://arxiv.org/abs/2603.29970)",
       "releaseDate": "2026",
       "summary": "Assuming the abc Conjecture, we prove that Ramanujan's tau function misses a density-one subset of the primes, taking prime values far less often than previously known."
@@ -256,6 +257,7 @@
       ],
       "authors": "Evan Chen, Chris Cummins, Ben Eltschig, **Dejan Grubisic**, et al.",
       "name": "Almost all primes are partially regular",
+      "picture": "https://dejangrubisic.github.io/pub/Almost all primes are partially regular.png",
       "publication": "[Available on arXiv](https://arxiv.org/abs/2602.05090)",
       "releaseDate": "2026",
       "summary": "We prove that almost all primes are partially regular, with the proof automatically formalized in the Lean proof assistant, and draw implications for p-adic L-functions and algebraic K-theory."
@@ -269,6 +271,7 @@
       ],
       "authors": "Evan Chen, Chris Cummins, Ben Eltschig, **Dejan Grubisic**, et al.",
       "name": "Dead ends in square-free digit walks",
+      "picture": "https://dejangrubisic.github.io/pub/Dead ends in square-free digit walks.png",
       "publication": "[Available on arXiv](https://arxiv.org/abs/2602.05095)",
       "releaseDate": "2026",
       "summary": "We study \"dead ends\" in square-free digit walks, derive a closed-form expression for their density across all bases, and show the true density is far smaller than a prior 2024 prediction."
@@ -282,6 +285,7 @@
       ],
       "authors": "Evan Chen, Chris Cummins, Ben Eltschig, **Dejan Grubisic**, et al.",
       "name": "Fel's Conjecture on Syzygies of Numerical Semigroups",
+      "picture": "https://dejangrubisic.github.io/pub/Fel's Conjecture on Syzygies of Numerical Semigroups.png",
       "publication": "[Available on arXiv](https://arxiv.org/abs/2602.03716)",
       "releaseDate": "2026",
       "summary": "We prove Fel's conjecture, giving an explicit formula for the syzygies of numerical semigroups via gap power sums, with the full proof formalized in the Lean proof assistant."
@@ -295,6 +299,7 @@
       ],
       "authors": "Chris Cummins, Volker Seeker, **Dejan Grubisic**, Baptiste Roziere, Jonas Gehring, Gabriel Synnaeve, Hugh Leather",
       "name": "LLM Compiler: Foundation Language Models for Compiler Optimization",
+      "picture": "https://dejangrubisic.github.io/pub/LLM Compiler Foundation Language Models for Compiler Optimization.png",
       "publication": "[Compiler Construction (CC '25)](https://conf.researchr.org/home/CC-2025)",
       "releaseDate": "2025",
       "summary": "We present LLM Compiler, a suite of LLMs built on Code Llama and trained on 546B tokens of LLVM-IR and assembly for compiler optimization, reaching 77% of the optimizing potential of an autotuning search and enabling assembly disassembly."
@@ -322,6 +327,7 @@
       ],
       "authors": "**Dejan Grubisic**, Chris Cummins, Volker Seeker, Hugh Leather",
       "name": "Compiler Generated Feedback for Large Language Models",
+      "picture": "https://dejangrubisic.github.io/pub/Compiler Generated Feedback for Large Language Models.png",
       "publication": "[Available on arXiv](https://arxiv.org/abs/2403.14714)",
       "releaseDate": "2024",
       "summary": "We introduce a system in which an LLM optimizes LLVM IR using compiler feedback: the model emits optimized IR, the best passes, and instruction counts, and the compiler validates the result to drive iterative improvement."
