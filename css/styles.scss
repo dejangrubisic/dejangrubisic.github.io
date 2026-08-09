@@ -276,7 +276,9 @@ code {
             code {
                 padding: 0;
                 background: none;
-                white-space: pre;
+                // wrap instead of clipping when the sidebar is narrow
+                white-space: pre-wrap;
+                word-break: normal;
                 color: #24292f;
                 @media (prefers-color-scheme: dark) { color: #c9d1d9; }
 
