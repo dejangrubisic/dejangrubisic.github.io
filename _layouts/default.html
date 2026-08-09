@@ -104,9 +104,12 @@ Licensed under {{ site.copyright.license }}.
         <div id="col-right" class="col-sm-3">
           <div data-spy="affix" data-offset-top="{{ site.jumbotron_max_height }}" data-clampedwidth="#col-right">
             {%include banner.html %}
-            <p id="about">
-              Curious about hard problems across AI ↔ Systems, from code generation to efficient ML.
-            </p>
+            <div id="about">
+              <p>Deeply interested in making AI systems better. My workflow:</p>
+              <pre><code><span class="py-kw">while</span> (<span class="py-const">True</span>):
+    systems = <span class="py-fn">improve_systems_with_ai</span>(systems, ai)
+    ai = <span class="py-fn">improve_ai_with_systems</span>(ai, systems)</code></pre>
+            </div>
             {%include around-the-web.html %}
           </div>
         </div> {% comment %} #col-right {% endcomment %}

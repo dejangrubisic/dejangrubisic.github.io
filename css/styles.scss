@@ -256,6 +256,44 @@ code {
         font-size: 16px;
         font-weight: 300;
         margin: 1em 0;
+
+        p {
+            margin: 0 0 .5em;
+        }
+
+        // the "my workflow" loop, styled like a Python snippet
+        pre {
+            margin: 0;
+            padding: .6em .8em;
+            font-size: 13px;
+            line-height: 1.5;
+            background-color: #f6f8fa;
+            border: none;
+            border-radius: 6px;
+            overflow-x: auto;
+            @media (prefers-color-scheme: dark) { background-color: #161b22; }
+
+            code {
+                padding: 0;
+                background: none;
+                white-space: pre;
+                color: #24292f;
+                @media (prefers-color-scheme: dark) { color: #c9d1d9; }
+
+                .py-kw {
+                    color: #cf222e;
+                    @media (prefers-color-scheme: dark) { color: #ff7b72; }
+                }
+                .py-const {
+                    color: #0550ae;
+                    @media (prefers-color-scheme: dark) { color: #79c0ff; }
+                }
+                .py-fn {
+                    color: #8250df;
+                    @media (prefers-color-scheme: dark) { color: #d2a8ff; }
+                }
+            }
+        }
     }
 }
 
