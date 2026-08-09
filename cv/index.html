@@ -71,28 +71,39 @@ banner: /img/banners/novi-sad-petrovaradin.jpg
       <span class="hang-left">{{ entry.endDate }}</span>
       <div class="edu collapse" id="edu-{{ forloop.index }}">
         <div class="collapse-content">
-          <table>
-          {% if entry.grade %}
-          <tr><td>Grade</td><td>{{ entry.grade | markdownify | remove: '<p>' | remove: '</p>' }}</td></tr>
-          {% endif %}
-          <tr><td>Thesis</td><td>{{ entry.thesis | markdownify | remove: '<p>' | remove: '</p>' }}</td></tr>
-          <tr><td>Advisors</td><td>{{ entry.advisors | markdownify | remove: '<p>' | remove: '</p>' }}</td></tr>
-          </table>
-          <p class="justify">
-            {{ entry.summary | markdownify | remove: '<p>' | remove: '</p>' }}
-          </p>
-          {% if entry.assets %}
-            <div class="btn-row">
-              <ul>
-              {% for asset in entry.assets %}
-                                                        {% assign icon = "fa-external-link" %}
-                {% if asset.url contains "github.com" %}{% assign icon = "fa-github" %}{% endif %}
-                {% if asset.url contains ".pdf" %}      {% assign icon = "fa-file-pdf-o" %}{% endif %}
-                <li><a title="Link opens in new window" target="_blank" href="{{ asset.url }}" class="btn btn-primary undecorated" role="button">{{ asset.name }} <i class="fa {{ icon }}" aria-hidden="true"></i></a></li>
-              {% endfor %}
-              </ul>
+          <div class="collapse-split-container">
+            {% if entry.picture %}
+            <div class="paper left">
+              <a href="{{ entry.assets[0].url }}" target="_blank" title="Link opens in new window">
+                <img src="{{ entry.picture }}"/>
+              </a>
             </div>
-          {% endif %}
+            {% endif %}
+            <div>
+              <table>
+              {% if entry.grade %}
+              <tr><td>Grade</td><td>{{ entry.grade | markdownify | remove: '<p>' | remove: '</p>' }}</td></tr>
+              {% endif %}
+              <tr><td>Thesis</td><td>{{ entry.thesis | markdownify | remove: '<p>' | remove: '</p>' }}</td></tr>
+              <tr><td>Advisors</td><td>{{ entry.advisors | markdownify | remove: '<p>' | remove: '</p>' }}</td></tr>
+              </table>
+              <p class="justify">
+                {{ entry.summary | markdownify | remove: '<p>' | remove: '</p>' }}
+              </p>
+              {% if entry.assets %}
+                <div class="btn-row">
+                  <ul>
+                  {% for asset in entry.assets %}
+                                                            {% assign icon = "fa-external-link" %}
+                    {% if asset.url contains "github.com" %}{% assign icon = "fa-github" %}{% endif %}
+                    {% if asset.url contains ".pdf" %}      {% assign icon = "fa-file-pdf-o" %}{% endif %}
+                    <li><a title="Link opens in new window" target="_blank" href="{{ asset.url }}" class="btn btn-primary undecorated" role="button">{{ asset.name }} <i class="fa {{ icon }}" aria-hidden="true"></i></a></li>
+                  {% endfor %}
+                  </ul>
+                </div>
+              {% endif %}
+            </div>
+          </div>
         </div>
       </div>
     </li>
