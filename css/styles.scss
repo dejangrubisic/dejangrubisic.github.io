@@ -256,6 +256,8 @@ code {
         font-size: 16px;
         font-weight: 300;
         margin: 1em 0;
+        // size the code block font against this container's width
+        container-type: inline-size;
 
         p {
             margin: 0 0 .5em;
@@ -265,12 +267,12 @@ code {
         pre {
             // borrow a little column padding so the loop fits on one line each
             margin: 0 -8px;
-            padding: .5em .6em;
+            padding: 6px 8px;
             font-size: 11px;
-            @media (min-width: $screen-lg-min) {
-                margin: 0;
-                padding: .6em .8em;
-                font-size: 12px;
+            @media (min-width: $screen-lg-min) { font-size: 12px; }
+            // auto-fit the widest code line (33ch) to the sidebar width
+            @supports (font-size: 1cqw) {
+                font-size: clamp(8px, 4.9cqw, 12.5px);
             }
             line-height: 1.5;
             background-color: #f6f8fa;
