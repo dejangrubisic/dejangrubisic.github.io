@@ -263,9 +263,15 @@ code {
 
         // the "my workflow" loop, styled like a Python snippet
         pre {
-            margin: 0;
-            padding: .6em .8em;
-            font-size: 12px;
+            // borrow a little column padding so the loop fits on one line each
+            margin: 0 -8px;
+            padding: .5em .6em;
+            font-size: 11px;
+            @media (min-width: $screen-lg-min) {
+                margin: 0;
+                padding: .6em .8em;
+                font-size: 12px;
+            }
             line-height: 1.5;
             background-color: #f6f8fa;
             border: none;
