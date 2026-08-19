@@ -307,7 +307,7 @@
       "authors": "**Dejan Grubisic**, Bram Wasti, Chris Cummins, Aleksandar Zlateski",
       "name": "LoopTune: Optimizing Tensor Programs with Reinforcement Learning",
       "picture": "https://dejangrubisic.github.io/pub/LoopTune Optimizing Tensor Programs with Reinforcement Learning.png",
-      "publication": "[International Conference on Compiler Construction 24' (Under submission)](https://conf.researchr.org/home/CC-2024)",
+      "publication": "[EuroMLSys 24'](https://2024.euromlsys.eu/#schedule)",
       "releaseDate": "2023",
       "summary": "We present LoopTune, a deep reinforcement learning framework for optimizing tensor computations in deep learning models. LoopTune consistently exceeds the performance of traditional search-based algorithms, TVM, performing at the level of hand-tuned library Numpy."
     },
